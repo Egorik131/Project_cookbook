@@ -11,7 +11,9 @@ logger = logging.getLogger(__name__)
 
 def index(request):
     logger.info('Index page accessed')
-    return render(request, 'cbookapp/index.html')
+    recipes = Recipe.objects.all().order_by('name')[:5]
+    context = {'recipes': recipes}
+    return render(request, 'cbookapp/index.html', context)
 
 
 def about(request):
@@ -21,14 +23,8 @@ def about(request):
 
 def get_recipes(request):
     recipes = Recipe.objects.all()
-    context = {'recipes': recipes, 'name': 'Рецепты'}
-    return render(request, 'cbookapp/recipe.html', context)
-
-
-def get_recipe(request):
-    recipe = Recipe.objects.all()
-    context = {'recipe': recipe, 'name': 'Рецепты'}
-    return render(request, 'cbookapp/recipe.html', context)
+    context = {'recipes': recipes}
+    return render(request, 'cbookapp/main.html', context)
 
 
 def add_category(request):

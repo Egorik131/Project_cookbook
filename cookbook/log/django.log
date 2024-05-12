@@ -4558,3 +4558,883 @@ INFO 2024-05-12 21:32:25,001 autoreload 8444 26244 Watching for file changes wit
 INFO 2024-05-12 21:32:25,624 basehttp 8444 10680 "GET /recipes/upd_recipe/test/ HTTP/1.1" 200 2751
 INFO 2024-05-12 21:34:08,764 autoreload 8444 26244 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
 INFO 2024-05-12 21:34:09,267 autoreload 27528 28768 Watching for file changes with StatReloader
+INFO 2024-05-12 21:48:56,105 autoreload 27528 28768 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-12 21:48:56,683 autoreload 34660 23940 Watching for file changes with StatReloader
+INFO 2024-05-12 21:50:25,971 autoreload 34660 23940 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 21:50:26,454 autoreload 5388 14332 Watching for file changes with StatReloader
+INFO 2024-05-12 21:50:59,359 views 5388 29816 Index page accessed
+INFO 2024-05-12 21:50:59,365 basehttp 5388 29816 "GET / HTTP/1.1" 200 1571
+INFO 2024-05-12 21:50:59,674 autoreload 5388 14332 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 21:51:00,154 autoreload 27844 27748 Watching for file changes with StatReloader
+INFO 2024-05-12 21:54:15,455 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:54:15,515 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:54:15,518 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:56:42,728 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:56:42,751 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:56:42,753 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:56:43,592 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:56:43,615 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:56:43,617 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:56:44,207 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:56:44,228 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:56:44,230 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:56:44,821 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:56:44,844 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:56:44,846 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:56:45,504 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:56:45,525 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:56:45,527 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:56:46,480 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:56:46,501 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:56:46,502 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:56:49,502 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:56:49,526 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:56:49,529 basehttp 27844 39300 "GET / HTTP/1.1" 500 84712
+INFO 2024-05-12 21:59:14,185 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:59:14,206 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:59:14,209 basehttp 27844 39300 "GET / HTTP/1.1" 500 84712
+INFO 2024-05-12 21:59:18,034 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:59:18,054 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:59:18,055 basehttp 27844 39300 "GET / HTTP/1.1" 500 84750
+INFO 2024-05-12 21:59:25,952 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:59:25,975 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:59:25,976 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:59:26,672 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:59:26,692 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:59:26,694 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:59:27,339 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:59:27,364 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:59:27,366 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:59:27,895 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:59:27,927 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:59:27,929 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:59:28,569 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:59:28,590 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:59:28,592 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:59:29,163 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:59:29,186 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:59:29,188 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 21:59:29,822 views 27844 39300 Index page accessed
+ERROR 2024-05-12 21:59:29,844 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('-views')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 21:59:29,846 basehttp 27844 39300 "GET / HTTP/1.1" 500 84887
+INFO 2024-05-12 22:00:45,783 views 27844 39300 Index page accessed
+ERROR 2024-05-12 22:00:45,807 log 27844 39300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 14, in index
+    recipes = Recipe.objects.all().order_by('name')[:5]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1701, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 2253, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'views' into field. Choices are: author, catalog, category, category_id, cooking_steps, cooking_time, description, id, img_file, ingredients, name
+ERROR 2024-05-12 22:00:45,809 basehttp 27844 39300 "GET / HTTP/1.1" 500 84883
+INFO 2024-05-12 22:00:45,820 autoreload 27844 27748 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 22:00:46,416 autoreload 38180 38724 Watching for file changes with StatReloader
+INFO 2024-05-12 22:00:46,731 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:00:46,735 basehttp 38180 36824 "GET / HTTP/1.1" 200 1981
+INFO 2024-05-12 22:01:04,803 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:01:04,803 basehttp 38180 36824 "GET / HTTP/1.1" 200 1981
+INFO 2024-05-12 22:01:05,478 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:01:05,479 basehttp 38180 36824 "GET / HTTP/1.1" 200 1960
+INFO 2024-05-12 22:01:06,798 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:01:06,800 basehttp 38180 36824 "GET / HTTP/1.1" 200 1960
+INFO 2024-05-12 22:01:17,034 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:01:17,035 basehttp 38180 36824 "GET / HTTP/1.1" 200 1960
+INFO 2024-05-12 22:01:17,777 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:01:17,778 basehttp 38180 36824 "GET / HTTP/1.1" 200 1953
+INFO 2024-05-12 22:01:19,122 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:01:19,123 basehttp 38180 36824 "GET / HTTP/1.1" 200 1953
+INFO 2024-05-12 22:01:31,682 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:01:31,683 basehttp 38180 36824 "GET / HTTP/1.1" 200 1953
+INFO 2024-05-12 22:01:32,642 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:01:32,644 basehttp 38180 36824 "GET / HTTP/1.1" 200 1946
+INFO 2024-05-12 22:04:18,185 views 38180 36824 Index page accessed
+ERROR 2024-05-12 22:04:18,269 log 38180 36824 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 16, in index
+    return render(request, 'cbookapp/index.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 242, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'recipe' not found. 'recipe' is not a valid view function or pattern name.
+ERROR 2024-05-12 22:04:18,278 basehttp 38180 36824 "GET / HTTP/1.1" 500 178944
+INFO 2024-05-12 22:05:55,264 views 38180 36824 Index page accessed
+ERROR 2024-05-12 22:05:55,299 log 38180 36824 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 16, in index
+    return render(request, 'cbookapp/index.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 242, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'rget_recipe_by_name' not found. 'rget_recipe_by_name' is not a valid view function or pattern name.
+ERROR 2024-05-12 22:05:55,304 basehttp 38180 36824 "GET / HTTP/1.1" 500 179256
+INFO 2024-05-12 22:05:56,051 views 38180 36824 Index page accessed
+ERROR 2024-05-12 22:05:56,085 log 38180 36824 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 16, in index
+    return render(request, 'cbookapp/index.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 242, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'rget_recipe_by_name' not found. 'rget_recipe_by_name' is not a valid view function or pattern name.
+ERROR 2024-05-12 22:05:56,091 basehttp 38180 36824 "GET / HTTP/1.1" 500 179256
+INFO 2024-05-12 22:05:56,839 views 38180 36824 Index page accessed
+ERROR 2024-05-12 22:05:56,874 log 38180 36824 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 16, in index
+    return render(request, 'cbookapp/index.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 242, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'rget_recipe_by_name' not found. 'rget_recipe_by_name' is not a valid view function or pattern name.
+ERROR 2024-05-12 22:05:56,880 basehttp 38180 36824 "GET / HTTP/1.1" 500 179256
+INFO 2024-05-12 22:06:11,397 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:06:11,401 basehttp 38180 36824 "GET / HTTP/1.1" 200 2982
+INFO 2024-05-12 22:06:19,663 basehttp 38180 36824 "GET /recipes/get_recipe/test/ HTTP/1.1" 200 980
+INFO 2024-05-12 22:06:25,800 basehttp 38180 36824 "GET /recipes/get_recipe/%D1%82%D0%B5%D1%81%D1%822/ HTTP/1.1" 200 944
+INFO 2024-05-12 22:06:59,359 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:06:59,364 basehttp 38180 36824 "GET / HTTP/1.1" 200 2982
+INFO 2024-05-12 22:07:00,080 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:07:00,084 basehttp 38180 36824 "GET / HTTP/1.1" 200 2986
+INFO 2024-05-12 22:07:16,122 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:07:16,124 basehttp 38180 36824 "GET / HTTP/1.1" 200 2986
+INFO 2024-05-12 22:07:16,924 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:07:16,926 basehttp 38180 36824 "GET / HTTP/1.1" 200 2986
+INFO 2024-05-12 22:07:17,779 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:07:17,784 basehttp 38180 36824 "GET / HTTP/1.1" 200 2999
+INFO 2024-05-12 22:07:57,298 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:07:57,301 basehttp 38180 36824 "GET / HTTP/1.1" 200 2999
+INFO 2024-05-12 22:07:58,616 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:07:58,621 basehttp 38180 36824 "GET / HTTP/1.1" 200 3320
+WARNING 2024-05-12 22:07:58,642 log 38180 36824 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:07:58,644 log 38180 19304 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
+WARNING 2024-05-12 22:07:58,644 basehttp 38180 36824 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+WARNING 2024-05-12 22:07:58,644 basehttp 38180 19304 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
+INFO 2024-05-12 22:08:02,225 views 38180 19304 Index page accessed
+INFO 2024-05-12 22:08:02,228 basehttp 38180 19304 "GET / HTTP/1.1" 200 3320
+WARNING 2024-05-12 22:08:02,252 log 38180 19304 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:08:02,253 log 38180 36824 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
+WARNING 2024-05-12 22:08:02,253 basehttp 38180 19304 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+WARNING 2024-05-12 22:08:02,254 basehttp 38180 36824 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
+INFO 2024-05-12 22:12:25,337 basehttp 38180 36824 "GET /recipes/add_recipe/ HTTP/1.1" 200 2610
+INFO 2024-05-12 22:12:35,050 basehttp 38180 36824 "POST /recipes/add_recipe/ HTTP/1.1" 200 541
+INFO 2024-05-12 22:12:37,202 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:12:37,209 basehttp 38180 36824 "GET / HTTP/1.1" 200 3752
+WARNING 2024-05-12 22:12:37,233 log 38180 36824 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:12:37,235 log 38180 19304 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
+WARNING 2024-05-12 22:12:37,235 basehttp 38180 36824 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+WARNING 2024-05-12 22:12:37,235 basehttp 38180 19304 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
+INFO 2024-05-12 22:12:39,433 basehttp 38180 19304 "GET /recipes/add_recipe/ HTTP/1.1" 200 2610
+INFO 2024-05-12 22:12:47,101 basehttp 38180 19304 "POST /recipes/add_recipe/ HTTP/1.1" 200 541
+INFO 2024-05-12 22:12:48,128 views 38180 19304 Index page accessed
+INFO 2024-05-12 22:12:48,133 basehttp 38180 19304 "GET / HTTP/1.1" 200 4393
+WARNING 2024-05-12 22:12:48,161 log 38180 19304 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:12:48,164 basehttp 38180 19304 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+WARNING 2024-05-12 22:12:48,169 log 38180 36824 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
+WARNING 2024-05-12 22:12:48,169 basehttp 38180 36824 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
+INFO 2024-05-12 22:12:49,811 basehttp 38180 36824 "GET /recipes/add_recipe/ HTTP/1.1" 200 2610
+INFO 2024-05-12 22:13:01,114 basehttp 38180 36824 "POST /recipes/add_recipe/ HTTP/1.1" 200 541
+INFO 2024-05-12 22:13:02,762 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:13:02,769 basehttp 38180 36824 "GET / HTTP/1.1" 200 4974
+WARNING 2024-05-12 22:13:02,793 log 38180 36824 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:13:02,794 log 38180 19304 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
+WARNING 2024-05-12 22:13:02,794 basehttp 38180 36824 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+WARNING 2024-05-12 22:13:02,795 basehttp 38180 19304 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
+INFO 2024-05-12 22:13:04,613 basehttp 38180 19304 "GET /recipes/add_recipe/ HTTP/1.1" 200 2610
+INFO 2024-05-12 22:13:13,735 basehttp 38180 19304 "POST /recipes/add_recipe/ HTTP/1.1" 200 541
+INFO 2024-05-12 22:13:14,987 views 38180 19304 Index page accessed
+INFO 2024-05-12 22:13:14,993 basehttp 38180 19304 "GET / HTTP/1.1" 200 4921
+WARNING 2024-05-12 22:13:15,026 log 38180 19304 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:13:15,027 basehttp 38180 19304 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+WARNING 2024-05-12 22:13:15,028 log 38180 36824 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
+WARNING 2024-05-12 22:13:15,029 basehttp 38180 36824 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
+INFO 2024-05-12 22:13:16,720 basehttp 38180 36824 "GET /recipes/add_recipe/ HTTP/1.1" 200 2610
+INFO 2024-05-12 22:13:29,485 basehttp 38180 36824 "POST /recipes/add_recipe/ HTTP/1.1" 200 541
+INFO 2024-05-12 22:13:31,955 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:13:31,961 basehttp 38180 36824 "GET / HTTP/1.1" 200 4751
+WARNING 2024-05-12 22:13:31,980 log 38180 36824 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:13:31,981 basehttp 38180 36824 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:13:33,414 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:13:33,419 basehttp 38180 36824 "GET / HTTP/1.1" 200 4751
+WARNING 2024-05-12 22:13:33,439 log 38180 36824 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:13:33,439 basehttp 38180 36824 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:14:35,895 views 38180 36824 Index page accessed
+INFO 2024-05-12 22:14:35,901 basehttp 38180 36824 "GET / HTTP/1.1" 200 4811
+WARNING 2024-05-12 22:14:35,925 log 38180 36824 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:14:35,925 basehttp 38180 36824 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:19:56,978 autoreload 38180 38724 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 22:19:57,552 autoreload 2228 19612 Watching for file changes with StatReloader
+INFO 2024-05-12 22:19:59,698 views 2228 42536 Index page accessed
+INFO 2024-05-12 22:19:59,710 basehttp 2228 42536 "GET / HTTP/1.1" 200 4831
+WARNING 2024-05-12 22:19:59,734 log 2228 42536 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:19:59,735 basehttp 2228 42536 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:20:02,963 views 2228 42536 Index page accessed
+INFO 2024-05-12 22:20:02,967 basehttp 2228 42536 "GET / HTTP/1.1" 200 4831
+WARNING 2024-05-12 22:20:02,985 log 2228 42536 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:20:02,986 basehttp 2228 42536 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:20:09,981 basehttp 2228 42536 "GET /recipes/get_recipe/777777/ HTTP/1.1" 200 895
+INFO 2024-05-12 22:20:15,066 views 2228 42536 Index page accessed
+INFO 2024-05-12 22:20:15,072 basehttp 2228 42536 "GET / HTTP/1.1" 200 4831
+WARNING 2024-05-12 22:20:15,095 log 2228 42536 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:20:15,096 basehttp 2228 42536 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:21:24,077 views 2228 42536 Index page accessed
+INFO 2024-05-12 22:21:24,083 basehttp 2228 42536 "GET / HTTP/1.1" 200 4831
+WARNING 2024-05-12 22:21:24,105 log 2228 42536 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:21:24,106 basehttp 2228 42536 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:21:24,933 views 2228 42536 Index page accessed
+INFO 2024-05-12 22:21:24,938 basehttp 2228 42536 "GET / HTTP/1.1" 200 4831
+WARNING 2024-05-12 22:21:24,957 log 2228 42536 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:21:24,958 basehttp 2228 42536 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:21:25,569 views 2228 42536 Index page accessed
+INFO 2024-05-12 22:21:25,575 basehttp 2228 42536 "GET / HTTP/1.1" 200 4928
+WARNING 2024-05-12 22:21:25,592 log 2228 42536 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:21:25,593 basehttp 2228 42536 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:21:26,557 views 2228 42536 Index page accessed
+INFO 2024-05-12 22:21:26,561 basehttp 2228 42536 "GET /recipes/ HTTP/1.1" 200 4928
+WARNING 2024-05-12 22:21:26,599 log 2228 42536 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:21:26,600 basehttp 2228 42536 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:22:40,006 views 2228 42536 Index page accessed
+INFO 2024-05-12 22:22:40,011 basehttp 2228 42536 "GET /recipes/ HTTP/1.1" 200 4928
+WARNING 2024-05-12 22:22:40,034 log 2228 42536 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:22:40,034 basehttp 2228 42536 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:22:40,650 autoreload 2228 19612 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-12 22:22:41,125 autoreload 36064 32540 Watching for file changes with StatReloader
+INFO 2024-05-12 22:23:45,797 autoreload 36064 32540 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 22:23:46,259 autoreload 20660 28792 Watching for file changes with StatReloader
+INFO 2024-05-12 22:24:05,028 autoreload 20660 28792 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-12 22:24:05,486 autoreload 22112 13308 Watching for file changes with StatReloader
+INFO 2024-05-12 22:26:07,291 autoreload 22112 13308 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 22:26:07,747 autoreload 41616 22944 Watching for file changes with StatReloader
+INFO 2024-05-12 22:28:24,919 autoreload 41616 22944 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-12 22:28:25,418 autoreload 34404 10968 Watching for file changes with StatReloader
+INFO 2024-05-12 22:28:25,538 basehttp 34404 29172 "GET /recipes/add_recipe/ HTTP/1.1" 200 2610
+INFO 2024-05-12 22:28:32,625 views 34404 29172 Index page accessed
+INFO 2024-05-12 22:28:32,635 basehttp 34404 29172 "GET / HTTP/1.1" 200 4928
+WARNING 2024-05-12 22:28:32,670 log 34404 29172 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:28:32,671 basehttp 34404 29172 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:28:33,593 views 34404 29172 Index page accessed
+INFO 2024-05-12 22:28:33,598 basehttp 34404 29172 "GET /recipes/ HTTP/1.1" 200 4928
+WARNING 2024-05-12 22:28:33,621 log 34404 29172 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:28:33,622 basehttp 34404 29172 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:30:51,005 views 34404 29172 Index page accessed
+INFO 2024-05-12 22:30:51,009 basehttp 34404 29172 "GET /recipes/ HTTP/1.1" 200 4928
+WARNING 2024-05-12 22:30:51,033 log 34404 29172 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:30:51,034 basehttp 34404 29172 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:30:51,091 autoreload 34404 10968 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-12 22:30:51,622 autoreload 13704 33408 Watching for file changes with StatReloader
+INFO 2024-05-12 22:30:54,131 views 13704 18888 Index page accessed
+INFO 2024-05-12 22:30:54,143 basehttp 13704 18888 "GET /recipes/ HTTP/1.1" 200 4940
+WARNING 2024-05-12 22:30:54,165 log 13704 18888 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:30:54,166 basehttp 13704 18888 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:31:06,949 views 13704 18888 Index page accessed
+INFO 2024-05-12 22:31:06,954 basehttp 13704 18888 "GET /recipes/ HTTP/1.1" 200 4940
+WARNING 2024-05-12 22:31:06,973 log 13704 18888 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:31:06,974 basehttp 13704 18888 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:34:31,828 views 13704 18888 Index page accessed
+INFO 2024-05-12 22:34:31,835 basehttp 13704 18888 "GET /recipes/ HTTP/1.1" 200 4940
+WARNING 2024-05-12 22:34:31,861 log 13704 18888 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:34:31,861 basehttp 13704 18888 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:34:31,947 autoreload 13704 33408 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-12 22:34:32,498 autoreload 37508 30500 Watching for file changes with StatReloader
+INFO 2024-05-12 22:34:33,092 views 37508 22196 Index page accessed
+INFO 2024-05-12 22:34:33,105 basehttp 37508 22196 "GET /recipes/ HTTP/1.1" 200 4931
+WARNING 2024-05-12 22:34:33,129 log 37508 22196 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:34:33,130 basehttp 37508 22196 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:34:35,334 views 37508 22196 Index page accessed
+INFO 2024-05-12 22:34:35,340 basehttp 37508 22196 "GET /recipes/ HTTP/1.1" 200 4931
+WARNING 2024-05-12 22:34:35,361 log 37508 22196 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:34:35,363 basehttp 37508 22196 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:34:37,322 views 37508 22196 About page accessed
+INFO 2024-05-12 22:34:37,323 basehttp 37508 22196 "GET /recipes/about/ HTTP/1.1" 200 1685
+INFO 2024-05-12 22:34:38,215 views 37508 22196 Index page accessed
+INFO 2024-05-12 22:34:38,220 basehttp 37508 22196 "GET / HTTP/1.1" 200 4931
+WARNING 2024-05-12 22:34:38,243 log 37508 22196 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:34:38,244 basehttp 37508 22196 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:34:44,409 basehttp 37508 22196 "GET /recipes/all_recipes/ HTTP/1.1" 200 6327
+WARNING 2024-05-12 22:34:44,443 log 37508 22196 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:34:44,445 basehttp 37508 22196 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+WARNING 2024-05-12 22:34:44,447 log 37508 3084 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
+WARNING 2024-05-12 22:34:44,449 basehttp 37508 3084 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
+INFO 2024-05-12 22:34:47,265 views 37508 3084 Index page accessed
+INFO 2024-05-12 22:34:47,270 basehttp 37508 3084 "GET / HTTP/1.1" 200 4931
+WARNING 2024-05-12 22:34:47,296 log 37508 3084 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:34:47,296 basehttp 37508 3084 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:34:51,660 basehttp 37508 3084 "GET /recipes/all_recipes/ HTTP/1.1" 200 6327
+WARNING 2024-05-12 22:34:51,694 log 37508 3084 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:34:51,696 log 37508 22196 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
+WARNING 2024-05-12 22:34:51,696 basehttp 37508 3084 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+WARNING 2024-05-12 22:34:51,697 basehttp 37508 22196 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
