@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ name }}{% endblock %}
+
+
+{% block content %}
+
+<ul class="navigate">
+    <li class="nav-item"><a href="/" class="nav-link">Вернуться на главную страницу</a></li>
+</ul>
+
+<h3>{{ name }}</h3>
+
+<ul>
+    <li> Блюдо: {{ recipe.name }}</li>
+    <li> Описание: {{ recipe.description }}</li>
+    <li> Шаги приготовления: {{ recipe.cooking_steps }}</li>
+    <li> Время приготовления: {{ recipe.cooking_time }}</li>
+    <li> Изображение: {{ recipe.img_file }}</li>
+    <li> Автор: {{ recipe.author }}</li>
+    <li> Ингридиенты: {{ recipe.ingredients }}</li>
+    <li> Категория: {{ recipe.category }}</li>
+</ul>
+
+{% endblock %}

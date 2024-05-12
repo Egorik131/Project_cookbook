@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ client.name }}{% endblock %}
+
+{% block content %}
+
+<ul class="navigate">
+    <li class="nav-item"><a href="" class="nav-link">Вернуться на главную страницу</a></li>
+</ul>
+
+<h3>{{ client_id }}</h3>
+
+<ul>
+    <li> Имя: {{ client.name }}</li>
+    <li> E-mail: {{ client.email }}</li>
+    <li> Телефон: {{ client.phone }}</li>
+    <li> Адрес: {{ client.address }}</li>
+    <li> Дата регистрация: {{ client.date_reg }}</li>
+</ul>
+
+{% endblock %}

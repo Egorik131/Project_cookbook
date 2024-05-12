@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block title %} {{ name }} {% endblock %}
+
+{% block content %}
+<ul class="navigate">
+    <li class="nav-item"><a href="/" class="nav-link">Вернуться на главную страницу</a></li>
+</ul>
+
+<h2> Список категорий </h2>
+
+<table CELLSPACING="10">
+    <tr>
+        <td>ID</td>
+        <td>Категории</td>
+    </tr>
+    {% for category in categories %}
+    <tr>
+        <td>{{ category.id }}</td>
+        <td>{{ category.name }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}
