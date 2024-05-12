@@ -11,6 +11,9 @@ urlpatterns = [
     path('add_category/', views.add_category, name='add_category'),
     path('get_category/', views.get_category, name='get_category'),
     path('upd_category/<str:cat_name>/', views.upd_category, name='upd_category'),
+    path('register/', views.RegisterUser.as_view(), name='register'),
+    path('login/', views.LoginUser.as_view(), name='login'),
+    path('logout/', views.logout_user, name='logout'),
 
 ]
 

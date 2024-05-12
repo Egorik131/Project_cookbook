@@ -27,9 +27,7 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="06da3db4-4b6a-4fa1-83c9-4d2bc8fec17c" object-ref="schemas/main/tables/cbookapp_recipe" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="8c494afd-df7a-41b8-9591-2324213cc264" />

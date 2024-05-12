@@ -1,3 +1,4 @@
+from django.contrib.auth.models import User
 from django.db import models
 
 
@@ -9,14 +10,14 @@ class Categories(models.Model):
 
 
 class Recipe(models.Model):
-    name = models.CharField(max_length=100, verbose_name='Название блюда')
-    description = models.TextField(verbose_name='Описание')
-    cooking_steps = models.TextField(verbose_name='Этапы приготовления')
-    cooking_time = models.CharField(max_length=15, verbose_name='Время приготовления, мин.')
-    img_file = models.ImageField(upload_to='media/products/', null=True, blank=True, verbose_name='Изображение')
-    author = models.CharField(max_length=100, verbose_name='Автор рецепта')
-    ingredients = models.TextField(verbose_name='Ингредиенты')
-    category = models.ForeignKey(Categories, on_delete=models.CASCADE, verbose_name='Категория')
+    name = models.CharField(max_length=100)
+    description = models.TextField()
+    cooking_steps = models.TextField()
+    cooking_time = models.CharField(max_length=15)
+    img_file = models.ImageField(upload_to='media/products/', null=True, blank=True)
+    author = models.ForeignKey(User, on_delete=models.SET_NULL, verbose_name="Пользователь", null=True)
+    ingredients = models.TextField()
+    category = models.ForeignKey(Categories, on_delete=models.CASCADE)
 
     def __str__(self):
         return f'name: {self.name}, cooking_time: {self.cooking_time}'

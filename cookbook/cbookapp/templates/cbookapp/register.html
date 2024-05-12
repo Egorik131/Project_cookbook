@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<ul class="navigate">
+    <li class="nav-item"><a href="/" class="nav-link">Вернуться на главную страницу</a></li>
+</ul>
+<h2>Регистрация</h2>
+
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Регистрация</button>
+</form>
+
+{% endblock %}

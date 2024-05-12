@@ -5438,3 +5438,1478 @@ WARNING 2024-05-12 22:34:51,694 log 37508 3084 Not Found: /media/media/products/
 WARNING 2024-05-12 22:34:51,696 log 37508 22196 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
 WARNING 2024-05-12 22:34:51,696 basehttp 37508 3084 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
 WARNING 2024-05-12 22:34:51,697 basehttp 37508 22196 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
+INFO 2024-05-12 22:43:37,077 views 37508 23156 Index page accessed
+INFO 2024-05-12 22:43:37,084 basehttp 37508 23156 "GET / HTTP/1.1" 200 4524
+WARNING 2024-05-12 22:43:37,111 log 37508 23156 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:43:37,112 basehttp 37508 23156 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:43:39,268 basehttp 37508 23156 "GET /recipes/all_recipes/ HTTP/1.1" 200 5592
+WARNING 2024-05-12 22:43:39,300 log 37508 23156 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:43:39,303 basehttp 37508 23156 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+WARNING 2024-05-12 22:43:39,305 log 37508 23736 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
+WARNING 2024-05-12 22:43:39,305 basehttp 37508 23736 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
+INFO 2024-05-12 22:43:41,795 views 37508 23736 Index page accessed
+INFO 2024-05-12 22:43:41,800 basehttp 37508 23736 "GET / HTTP/1.1" 200 4524
+WARNING 2024-05-12 22:43:41,825 log 37508 23736 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:43:41,826 basehttp 37508 23736 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:43:44,864 views 37508 23736 Index page accessed
+INFO 2024-05-12 22:43:44,869 basehttp 37508 23736 "GET / HTTP/1.1" 200 4524
+WARNING 2024-05-12 22:43:44,888 log 37508 23736 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:43:44,889 basehttp 37508 23736 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:43:45,577 views 37508 23736 Index page accessed
+INFO 2024-05-12 22:43:45,581 basehttp 37508 23736 "GET / HTTP/1.1" 200 4524
+WARNING 2024-05-12 22:43:45,600 log 37508 23736 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:43:45,601 basehttp 37508 23736 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:43:47,123 basehttp 37508 23736 "GET /recipes/all_recipes/ HTTP/1.1" 200 5592
+WARNING 2024-05-12 22:43:47,164 log 37508 23736 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:43:47,166 log 37508 23156 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
+WARNING 2024-05-12 22:43:47,166 basehttp 37508 23156 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
+WARNING 2024-05-12 22:43:47,166 basehttp 37508 23736 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:43:50,950 views 37508 23736 Index page accessed
+INFO 2024-05-12 22:43:50,955 basehttp 37508 23736 "GET / HTTP/1.1" 200 4524
+WARNING 2024-05-12 22:43:50,981 log 37508 23736 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:43:50,981 basehttp 37508 23736 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:43:53,687 basehttp 37508 23736 "GET /recipes/all_recipes/ HTTP/1.1" 200 5592
+WARNING 2024-05-12 22:43:53,726 log 37508 23736 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:43:53,730 basehttp 37508 23736 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+WARNING 2024-05-12 22:43:53,731 log 37508 23156 Not Found: /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg
+WARNING 2024-05-12 22:43:53,732 basehttp 37508 23156 "GET /media/media/products/russian-pancakes-blini-3_dMOK80l.jpg HTTP/1.1" 404 2458
+INFO 2024-05-12 22:43:55,240 views 37508 23156 About page accessed
+INFO 2024-05-12 22:43:55,242 basehttp 37508 23156 "GET /recipes/about/ HTTP/1.1" 200 1685
+INFO 2024-05-12 22:44:02,347 basehttp 37508 23156 "GET /recipes/add_recipe/ HTTP/1.1" 200 2610
+INFO 2024-05-12 22:44:04,623 views 37508 23156 Index page accessed
+INFO 2024-05-12 22:44:04,628 basehttp 37508 23156 "GET / HTTP/1.1" 200 4524
+WARNING 2024-05-12 22:44:04,653 log 37508 23156 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:44:04,654 basehttp 37508 23156 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:44:05,762 basehttp 37508 23156 "GET /recipes/get_recipe/test/ HTTP/1.1" 200 980
+INFO 2024-05-12 22:44:07,992 views 37508 23156 Index page accessed
+INFO 2024-05-12 22:44:07,997 basehttp 37508 23156 "GET / HTTP/1.1" 200 4524
+WARNING 2024-05-12 22:44:08,021 log 37508 23156 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:44:08,022 basehttp 37508 23156 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:44:09,176 basehttp 37508 23156 "GET /recipes/add_category/ HTTP/1.1" 200 1007
+INFO 2024-05-12 22:44:10,661 views 37508 23156 Index page accessed
+INFO 2024-05-12 22:44:10,666 basehttp 37508 23156 "GET / HTTP/1.1" 200 4524
+WARNING 2024-05-12 22:44:10,692 log 37508 23156 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:44:10,692 basehttp 37508 23156 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:44:11,829 basehttp 37508 23156 "GET /recipes/get_category/ HTTP/1.1" 200 1016
+INFO 2024-05-12 22:44:13,902 views 37508 23156 Index page accessed
+INFO 2024-05-12 22:44:13,908 basehttp 37508 23156 "GET / HTTP/1.1" 200 4524
+WARNING 2024-05-12 22:44:13,932 log 37508 23156 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:44:13,933 basehttp 37508 23156 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 22:44:15,239 basehttp 37508 23156 "GET /recipes/upd_category/test/ HTTP/1.1" 200 615
+INFO 2024-05-12 22:44:17,713 views 37508 23156 Index page accessed
+INFO 2024-05-12 22:44:17,717 basehttp 37508 23156 "GET / HTTP/1.1" 200 4524
+WARNING 2024-05-12 22:44:17,742 log 37508 23156 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 22:44:17,743 basehttp 37508 23156 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 23:06:21,218 autoreload 37508 30500 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-12 23:06:21,713 autoreload 22236 22052 Watching for file changes with StatReloader
+INFO 2024-05-12 23:06:25,130 views 22236 31508 Index page accessed
+INFO 2024-05-12 23:06:25,147 basehttp 22236 31508 "GET / HTTP/1.1" 200 4624
+WARNING 2024-05-12 23:06:25,175 log 22236 31508 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 23:06:25,176 basehttp 22236 31508 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+ERROR 2024-05-12 23:06:29,222 log 22236 31508 Internal Server Error: /recipes/register/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: register() takes 0 positional arguments but 1 was given
+ERROR 2024-05-12 23:06:29,224 basehttp 22236 31508 "GET /recipes/register/ HTTP/1.1" 500 65644
+ERROR 2024-05-12 23:06:31,941 log 22236 31508 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: login() takes 0 positional arguments but 1 was given
+ERROR 2024-05-12 23:06:31,942 basehttp 22236 31508 "GET /recipes/login/ HTTP/1.1" 500 65596
+INFO 2024-05-12 23:08:49,690 autoreload 22236 22052 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-12 23:08:50,266 autoreload 19648 28304 Watching for file changes with StatReloader
+INFO 2024-05-12 23:10:08,223 autoreload 19648 28304 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 23:10:08,707 autoreload 35572 39532 Watching for file changes with StatReloader
+INFO 2024-05-12 23:11:24,598 autoreload 35572 39532 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 23:11:25,062 autoreload 18612 27936 Watching for file changes with StatReloader
+INFO 2024-05-12 23:16:49,942 autoreload 18612 27936 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 23:16:50,474 autoreload 23368 15324 Watching for file changes with StatReloader
+INFO 2024-05-12 23:17:54,106 autoreload 23368 15324 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 23:17:54,595 autoreload 32084 30612 Watching for file changes with StatReloader
+INFO 2024-05-12 23:18:05,150 autoreload 32084 30612 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 23:18:05,648 autoreload 27524 14288 Watching for file changes with StatReloader
+INFO 2024-05-12 23:19:23,626 autoreload 27524 14288 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 23:19:24,095 autoreload 26648 27256 Watching for file changes with StatReloader
+INFO 2024-05-12 23:23:47,353 views 26648 32544 Index page accessed
+INFO 2024-05-12 23:23:47,368 basehttp 26648 32544 "GET / HTTP/1.1" 200 4624
+WARNING 2024-05-12 23:23:47,397 log 26648 32544 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 23:23:47,398 basehttp 26648 32544 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 23:23:52,510 views 26648 32544 Index page accessed
+INFO 2024-05-12 23:23:52,516 basehttp 26648 32544 "GET / HTTP/1.1" 200 4624
+WARNING 2024-05-12 23:23:52,536 log 26648 32544 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 23:23:52,536 basehttp 26648 32544 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 23:23:53,687 views 26648 32544 Index page accessed
+INFO 2024-05-12 23:23:53,692 basehttp 26648 32544 "GET / HTTP/1.1" 200 4624
+WARNING 2024-05-12 23:23:53,712 log 26648 32544 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 23:23:53,713 basehttp 26648 32544 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-12 23:23:56,367 views 26648 32544 About page accessed
+INFO 2024-05-12 23:23:56,369 basehttp 26648 32544 "GET /recipes/about/ HTTP/1.1" 200 1785
+ERROR 2024-05-12 23:23:59,081 log 26648 32544 Internal Server Error: /recipes/register/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 555, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 14: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+ERROR 2024-05-12 23:23:59,086 basehttp 26648 32544 "GET /recipes/register/ HTTP/1.1" 500 168844
+INFO 2024-05-12 23:29:06,787 autoreload 26648 27256 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-12 23:29:07,292 autoreload 20656 37628 Watching for file changes with StatReloader
+INFO 2024-05-12 23:30:55,879 autoreload 20656 37628 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-12 23:30:56,369 autoreload 33236 12776 Watching for file changes with StatReloader
+INFO 2024-05-12 23:32:31,686 autoreload 33236 12776 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-12 23:32:32,154 autoreload 27964 39504 Watching for file changes with StatReloader
+INFO 2024-05-12 23:32:47,806 autoreload 27964 39504 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-12 23:32:48,293 autoreload 12536 33136 Watching for file changes with StatReloader
+INFO 2024-05-12 23:34:38,007 autoreload 12536 33136 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-12 23:34:38,516 autoreload 16044 26844 Watching for file changes with StatReloader
+INFO 2024-05-12 23:36:04,658 autoreload 16044 26844 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-12 23:36:05,171 autoreload 5840 6788 Watching for file changes with StatReloader
+INFO 2024-05-12 23:40:37,040 autoreload 5840 6788 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-12 23:40:37,526 autoreload 33176 33532 Watching for file changes with StatReloader
+ERROR 2024-05-12 23:40:41,352 log 33176 23828 Internal Server Error: /recipes/register/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 555, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 14: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+ERROR 2024-05-12 23:40:41,359 basehttp 33176 23828 "GET /recipes/register/ HTTP/1.1" 500 168844
+INFO 2024-05-12 23:41:17,079 autoreload 11496 41720 Watching for file changes with StatReloader
+INFO 2024-05-12 23:41:21,060 basehttp 11496 18188 "GET /recipes/register/ HTTP/1.1" 200 2418
+INFO 2024-05-12 23:42:38,929 basehttp 11496 18188 "POST /recipes/register/ HTTP/1.1" 302 0
+ERROR 2024-05-12 23:42:38,960 log 11496 18188 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: login() takes 0 positional arguments but 1 was given
+ERROR 2024-05-12 23:42:38,962 basehttp 11496 18188 "GET /recipes/login/ HTTP/1.1" 500 65750
+INFO 2024-05-12 23:44:29,184 autoreload 11496 41720 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-12 23:44:29,659 autoreload 33200 42148 Watching for file changes with StatReloader
+INFO 2024-05-12 23:44:30,391 basehttp 33200 40300 "GET /recipes/register/ HTTP/1.1" 200 1358
+INFO 2024-05-12 23:46:17,205 basehttp 33200 40300 "GET /recipes/register/ HTTP/1.1" 200 1485
+INFO 2024-05-12 23:46:28,638 basehttp 33200 40300 "GET /recipes/register/ HTTP/1.1" 200 1485
+INFO 2024-05-12 23:46:29,275 basehttp 33200 40300 "GET /recipes/register/ HTTP/1.1" 200 1485
+INFO 2024-05-12 23:46:29,850 basehttp 33200 40300 "GET /recipes/register/ HTTP/1.1" 200 1340
+INFO 2024-05-12 23:46:39,848 basehttp 33200 40300 "GET /recipes/register/ HTTP/1.1" 200 1358
+ERROR 2024-05-12 23:47:38,003 log 33200 40300 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: login() takes 0 positional arguments but 1 was given
+ERROR 2024-05-12 23:47:38,004 basehttp 33200 40300 "GET /recipes/login/ HTTP/1.1" 500 65613
+INFO 2024-05-12 23:49:25,688 autoreload 33200 42148 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 23:49:26,160 autoreload 36892 25908 Watching for file changes with StatReloader
+ERROR 2024-05-12 23:49:26,497 log 36892 29332 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: login() takes 0 positional arguments but 1 was given
+ERROR 2024-05-12 23:49:26,498 basehttp 36892 29332 "GET /recipes/login/ HTTP/1.1" 500 65613
+ERROR 2024-05-12 23:50:00,237 log 36892 29332 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: login() takes 0 positional arguments but 1 was given
+ERROR 2024-05-12 23:50:00,238 basehttp 36892 29332 "GET /recipes/login/ HTTP/1.1" 500 65750
+INFO 2024-05-12 23:50:00,281 autoreload 36892 25908 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 23:50:00,858 autoreload 10676 22700 Watching for file changes with StatReloader
+ERROR 2024-05-12 23:50:01,180 log 10676 42264 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: login() takes 0 positional arguments but 1 was given
+ERROR 2024-05-12 23:50:01,181 basehttp 10676 42264 "GET /recipes/login/ HTTP/1.1" 500 65750
+ERROR 2024-05-12 23:50:02,059 log 10676 42264 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: login() takes 0 positional arguments but 1 was given
+ERROR 2024-05-12 23:50:02,060 basehttp 10676 42264 "GET /recipes/login/ HTTP/1.1" 500 65750
+INFO 2024-05-12 23:51:05,751 autoreload 10676 22700 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-12 23:51:06,289 autoreload 11500 7916 Watching for file changes with StatReloader
+INFO 2024-05-12 23:51:06,594 basehttp 11500 4320 "GET /recipes/login/ HTTP/1.1" 200 50
+INFO 2024-05-12 23:51:11,688 basehttp 11500 4320 "GET /recipes/register/ HTTP/1.1" 200 1358
+INFO 2024-05-12 23:51:21,043 basehttp 11500 4320 "GET /recipes/register/ HTTP/1.1" 200 1358
+INFO 2024-05-12 23:51:52,388 basehttp 11500 4320 "POST /recipes/register/ HTTP/1.1" 200 1483
+INFO 2024-05-12 23:52:19,560 basehttp 11500 4320 "POST /recipes/register/ HTTP/1.1" 302 0
+INFO 2024-05-12 23:52:19,563 basehttp 11500 4320 "GET /recipes/login/ HTTP/1.1" 200 50
+INFO 2024-05-12 23:52:28,789 basehttp 11500 4320 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-05-12 23:52:28,855 basehttp 11500 4320 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-05-12 23:52:28,877 basehttp 11500 4320 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2024-05-12 23:52:28,889 basehttp 11500 4320 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2024-05-12 23:52:28,891 basehttp 11500 24220 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2024-05-12 23:52:28,892 basehttp 11500 19932 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2024-05-12 23:52:28,892 basehttp 11500 35616 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2024-05-12 23:52:28,893 basehttp 11500 14732 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:52:28,894 basehttp 11500 32380 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:52:33,131 basehttp 11500 32380 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4626
+INFO 2024-05-12 23:52:42,933 basehttp 11500 32380 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4626
+INFO 2024-05-12 23:53:01,327 basehttp 11500 32380 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4626
+INFO 2024-05-12 23:53:22,012 basehttp 11500 32380 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-05-12 23:53:28,196 basehttp 11500 32380 "GET /recipes/login/ HTTP/1.1" 200 50
+INFO 2024-05-12 23:54:09,230 autoreload 37636 7820 Watching for file changes with StatReloader
+INFO 2024-05-12 23:54:12,950 basehttp 37636 31304 "GET /recipes/register/ HTTP/1.1" 200 1357
+INFO 2024-05-12 23:54:21,627 basehttp 37636 31304 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-05-12 23:54:21,671 basehttp 37636 31304 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-05-12 23:54:31,952 basehttp 37636 31304 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-05-12 23:54:31,976 basehttp 37636 31304 "GET /admin/ HTTP/1.1" 200 7109
+INFO 2024-05-12 23:54:31,995 basehttp 37636 31304 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:32,005 basehttp 37636 31304 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:32,005 basehttp 37636 33440 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,720 basehttp 37636 33440 "GET /admin/auth/user/ HTTP/1.1" 200 13799
+INFO 2024-05-12 23:54:34,746 basehttp 37636 33440 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,755 basehttp 37636 31304 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,760 basehttp 37636 22628 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,760 basehttp 37636 24556 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,761 basehttp 37636 30268 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,762 basehttp 37636 31304 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,762 basehttp 37636 26488 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,786 basehttp 37636 33440 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-12 23:54:34,810 basehttp 37636 24556 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,810 basehttp 37636 22628 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,815 basehttp 37636 24556 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,891 basehttp 37636 24556 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,897 basehttp 37636 24556 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:34,913 basehttp 37636 26488 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2024-05-12 23:54:35,038 basehttp 37636 22628 "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2024-05-12 23:54:35,057 basehttp 37636 33440 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-05-12 23:54:35,058 basehttp 37636 24556 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-05-12 23:55:03,970 basehttp 37636 24556 "GET /admin/auth/group/add/ HTTP/1.1" 200 13815
+INFO 2024-05-12 23:55:03,986 basehttp 37636 24556 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2024-05-12 23:55:03,996 basehttp 37636 31304 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-12 23:55:04,005 basehttp 37636 26488 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-05-12 23:55:04,008 basehttp 37636 24556 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+INFO 2024-05-12 23:55:04,010 basehttp 37636 22628 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15492
+INFO 2024-05-12 23:55:04,010 basehttp 37636 33440 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-05-12 23:55:04,021 basehttp 37636 33440 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2024-05-12 23:55:04,075 basehttp 37636 24556 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-05-12 23:55:04,075 basehttp 37636 33440 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-05-12 23:55:04,076 basehttp 37636 22628 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-05-12 23:56:11,799 basehttp 37636 22628 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2024-05-12 23:56:11,812 basehttp 37636 22628 "GET /admin/auth/group/ HTTP/1.1" 200 10389
+INFO 2024-05-12 23:56:11,842 basehttp 37636 22628 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-12 23:56:23,559 basehttp 37636 22628 "GET /admin/auth/user/ HTTP/1.1" 200 14103
+INFO 2024-05-12 23:56:23,579 basehttp 37636 22628 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-12 23:56:31,863 basehttp 37636 22628 "GET /admin/auth/user/1/change/ HTTP/1.1" 200 24435
+INFO 2024-05-12 23:56:31,892 basehttp 37636 24556 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-12 23:56:31,909 basehttp 37636 22628 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2024-05-12 23:56:31,912 basehttp 37636 33440 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-05-12 23:56:31,969 basehttp 37636 22628 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-05-12 23:56:31,970 basehttp 37636 33440 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-05-12 23:56:56,720 basehttp 37636 33440 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-05-12 23:57:03,537 views 37636 33440 Index page accessed
+INFO 2024-05-12 23:57:03,547 basehttp 37636 33440 "GET / HTTP/1.1" 200 4624
+WARNING 2024-05-12 23:57:03,603 log 37636 33440 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-12 23:57:03,603 basehttp 37636 33440 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 00:00:21,110 autoreload 37636 7820 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-13 00:00:21,659 autoreload 27936 36152 Watching for file changes with StatReloader
+INFO 2024-05-13 00:04:41,057 autoreload 27936 36152 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 00:04:41,581 autoreload 39524 35992 Watching for file changes with StatReloader
+INFO 2024-05-13 00:05:27,860 autoreload 39524 35992 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 00:05:28,307 autoreload 42724 40912 Watching for file changes with StatReloader
+INFO 2024-05-13 00:06:53,354 autoreload 42724 40912 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 00:06:53,852 autoreload 34576 33740 Watching for file changes with StatReloader
+INFO 2024-05-13 00:09:50,888 autoreload 34576 33740 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 00:09:51,396 autoreload 14204 12352 Watching for file changes with StatReloader
+INFO 2024-05-13 00:16:30,263 autoreload 14204 12352 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cookbook\settings.py changed, reloading.
+INFO 2024-05-13 00:16:30,747 autoreload 40004 38824 Watching for file changes with StatReloader
+INFO 2024-05-13 00:18:15,202 autoreload 40004 38824 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-13 00:18:15,713 autoreload 28216 22420 Watching for file changes with StatReloader
+INFO 2024-05-13 00:18:15,919 basehttp 28216 34968 "GET /recipes/login/ HTTP/1.1" 200 1165
+INFO 2024-05-13 00:18:27,358 basehttp 28216 34968 "POST /recipes/login/ HTTP/1.1" 200 1422
+INFO 2024-05-13 00:20:08,706 basehttp 28216 34968 "GET /recipes/register/ HTTP/1.1" 200 1379
+INFO 2024-05-13 00:20:09,901 basehttp 28216 34968 "GET /recipes/login/ HTTP/1.1" 200 1187
+INFO 2024-05-13 00:20:38,529 basehttp 28216 34968 "GET /recipes/login/ HTTP/1.1" 200 1187
+INFO 2024-05-13 00:20:39,870 basehttp 28216 34968 "GET /recipes/register/ HTTP/1.1" 200 1379
+INFO 2024-05-13 00:20:40,721 basehttp 28216 34968 "GET /recipes/login/ HTTP/1.1" 200 1187
+INFO 2024-05-13 00:20:47,709 basehttp 28216 34968 "POST /recipes/login/ HTTP/1.1" 302 0
+INFO 2024-05-13 00:20:47,717 views 28216 34968 Index page accessed
+INFO 2024-05-13 00:20:47,724 basehttp 28216 34968 "GET / HTTP/1.1" 200 4624
+WARNING 2024-05-13 00:20:47,750 log 28216 34968 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-13 00:20:47,750 basehttp 28216 34968 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 00:21:06,656 basehttp 28216 34968 "GET /admin/ HTTP/1.1" 200 7494
+INFO 2024-05-13 00:21:12,489 basehttp 28216 34968 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-05-13 00:21:20,668 basehttp 28216 34968 "GET /recipes/register/ HTTP/1.1" 200 1379
+INFO 2024-05-13 00:21:43,833 basehttp 28216 34968 "POST /recipes/register/ HTTP/1.1" 302 0
+INFO 2024-05-13 00:21:43,838 basehttp 28216 34968 "GET /recipes/login/ HTTP/1.1" 200 1187
+INFO 2024-05-13 00:21:50,382 basehttp 28216 34968 "POST /recipes/login/ HTTP/1.1" 302 0
+INFO 2024-05-13 00:21:50,384 views 28216 34968 Index page accessed
+INFO 2024-05-13 00:21:50,388 basehttp 28216 34968 "GET / HTTP/1.1" 200 4624
+WARNING 2024-05-13 00:21:50,416 log 28216 34968 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-13 00:21:50,417 basehttp 28216 34968 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 00:21:52,614 basehttp 28216 34968 "GET /recipes/add_recipe/ HTTP/1.1" 200 2710
+INFO 2024-05-13 00:28:32,125 views 28216 19200 Index page accessed
+ERROR 2024-05-13 00:28:32,181 log 28216 19200 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endblock'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 21, in index
+    return render(request, 'cbookapp/index.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 134, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 131, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 109, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 961, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 555, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 14: 'endblock', expected 'elif', 'else' or 'endif'. Did you forget to register or load this tag?
+ERROR 2024-05-13 00:28:32,190 basehttp 28216 19200 "GET / HTTP/1.1" 500 203666
+ERROR 2024-05-13 00:29:12,794 log 28216 19200 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+ERROR 2024-05-13 00:29:12,800 basehttp 28216 19200 "GET /recipes/login/ HTTP/1.1" 500 184307
+ERROR 2024-05-13 00:29:19,610 log 28216 19200 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+ERROR 2024-05-13 00:29:19,615 basehttp 28216 19200 "GET /recipes/login/ HTTP/1.1" 500 184438
+INFO 2024-05-13 00:30:12,280 autoreload 28216 22420 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-13 00:30:12,776 autoreload 41804 34356 Watching for file changes with StatReloader
+ERROR 2024-05-13 00:30:46,130 log 41804 36396 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+ERROR 2024-05-13 00:30:46,136 basehttp 41804 36396 "GET /recipes/login/ HTTP/1.1" 500 183691
+ERROR 2024-05-13 00:30:46,922 log 41804 36396 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+ERROR 2024-05-13 00:30:46,927 basehttp 41804 36396 "GET /recipes/login/ HTTP/1.1" 500 183691
+ERROR 2024-05-13 00:30:47,708 log 41804 36396 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+ERROR 2024-05-13 00:30:47,714 basehttp 41804 36396 "GET /recipes/login/ HTTP/1.1" 500 183691
+ERROR 2024-05-13 00:30:49,822 log 41804 36396 Internal Server Error: /recipes/login/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+ERROR 2024-05-13 00:30:49,826 basehttp 41804 36396 "GET /recipes/login/ HTTP/1.1" 500 183554
+INFO 2024-05-13 00:32:10,030 autoreload 41804 34356 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-13 00:32:10,509 autoreload 34404 20536 Watching for file changes with StatReloader
+INFO 2024-05-13 00:32:26,154 autoreload 34404 20536 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-13 00:32:26,625 autoreload 31512 33700 Watching for file changes with StatReloader
+INFO 2024-05-13 00:32:29,267 views 31512 37420 Index page accessed
+INFO 2024-05-13 00:32:29,280 basehttp 31512 37420 "GET / HTTP/1.1" 200 4595
+WARNING 2024-05-13 00:32:29,313 log 31512 37420 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-13 00:32:29,314 basehttp 31512 37420 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 00:32:33,869 basehttp 31512 37420 "GET /recipes/logout/ HTTP/1.1" 200 1158
+INFO 2024-05-13 00:32:52,713 views 31512 37420 Index page accessed
+INFO 2024-05-13 00:32:52,719 basehttp 31512 37420 "GET / HTTP/1.1" 200 4595
+WARNING 2024-05-13 00:32:52,736 log 31512 37420 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-13 00:32:52,736 basehttp 31512 37420 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 00:33:49,967 autoreload 31512 33700 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\urls.py changed, reloading.
+INFO 2024-05-13 00:33:50,454 autoreload 13320 4068 Watching for file changes with StatReloader
+INFO 2024-05-13 00:34:59,282 autoreload 13320 4068 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 00:34:59,750 autoreload 32152 15444 Watching for file changes with StatReloader
+INFO 2024-05-13 00:35:27,600 views 32152 28700 Index page accessed
+INFO 2024-05-13 00:35:27,615 basehttp 32152 28700 "GET / HTTP/1.1" 200 4595
+WARNING 2024-05-13 00:35:27,642 log 32152 28700 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-13 00:35:27,643 basehttp 32152 28700 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 00:35:27,881 autoreload 32152 15444 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 00:35:28,394 autoreload 2008 15712 Watching for file changes with StatReloader
+INFO 2024-05-13 00:35:28,632 basehttp 2008 42068 "GET /recipes/logout/ HTTP/1.1" 302 0
+INFO 2024-05-13 00:35:28,646 basehttp 2008 42068 "GET /recipes/login/ HTTP/1.1" 200 1203
+INFO 2024-05-13 00:35:40,105 views 2008 42068 Index page accessed
+INFO 2024-05-13 00:35:40,113 basehttp 2008 42068 "GET / HTTP/1.1" 200 4640
+WARNING 2024-05-13 00:35:40,137 log 2008 42068 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-13 00:35:40,137 basehttp 2008 42068 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 00:37:13,011 autoreload 2008 15712 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 00:37:13,499 autoreload 22756 29356 Watching for file changes with StatReloader
+INFO 2024-05-13 00:38:52,027 autoreload 22756 29356 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 00:38:52,509 autoreload 6616 10424 Watching for file changes with StatReloader
+INFO 2024-05-13 00:39:03,137 autoreload 6616 10424 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 00:39:03,707 autoreload 33704 1924 Watching for file changes with StatReloader
+INFO 2024-05-13 00:39:18,472 views 33704 14540 Index page accessed
+INFO 2024-05-13 00:39:18,485 basehttp 33704 14540 "GET / HTTP/1.1" 200 4640
+WARNING 2024-05-13 00:39:18,513 log 33704 14540 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-13 00:39:18,515 basehttp 33704 14540 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 00:39:19,290 basehttp 33704 14540 "GET /recipes/register/ HTTP/1.1" 200 1395
+INFO 2024-05-13 00:39:22,096 basehttp 33704 14540 "GET /recipes/login/ HTTP/1.1" 200 1203
+INFO 2024-05-13 00:39:29,474 basehttp 33704 14540 "GET /recipes/register/ HTTP/1.1" 200 1395
+INFO 2024-05-13 00:40:03,385 basehttp 33704 14540 "POST /recipes/register/ HTTP/1.1" 302 0
+INFO 2024-05-13 00:40:03,387 views 33704 14540 Index page accessed
+INFO 2024-05-13 00:40:03,395 basehttp 33704 14540 "GET /recipes/ HTTP/1.1" 200 4594
+WARNING 2024-05-13 00:40:03,443 log 33704 14540 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-13 00:40:03,444 basehttp 33704 14540 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 00:41:42,710 basehttp 33704 14540 "GET /recipes/get_recipe/test/ HTTP/1.1" 200 1050
+INFO 2024-05-13 00:41:42,792 autoreload 33704 1924 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 00:41:43,344 autoreload 18228 19352 Watching for file changes with StatReloader
+INFO 2024-05-13 00:41:46,283 views 18228 39564 Index page accessed
+INFO 2024-05-13 00:41:46,297 basehttp 18228 39564 "GET / HTTP/1.1" 200 4594
+WARNING 2024-05-13 00:41:46,327 log 18228 39564 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-13 00:41:46,328 basehttp 18228 39564 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 00:41:49,566 basehttp 18228 39564 "GET /recipes/add_recipe/ HTTP/1.1" 200 2680
+INFO 2024-05-13 00:42:21,561 basehttp 18228 39564 "GET /recipes/logout/ HTTP/1.1" 302 0
+INFO 2024-05-13 00:42:21,566 basehttp 18228 39564 "GET /recipes/login/ HTTP/1.1" 200 1203
+INFO 2024-05-13 00:42:21,646 autoreload 18228 19352 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 00:42:22,223 autoreload 7472 1360 Watching for file changes with StatReloader
+INFO 2024-05-13 00:42:23,912 views 7472 30500 Index page accessed
+INFO 2024-05-13 00:42:23,925 basehttp 7472 30500 "GET / HTTP/1.1" 200 4640
+WARNING 2024-05-13 00:42:23,953 log 7472 30500 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg
+WARNING 2024-05-13 00:42:23,954 basehttp 7472 30500 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_PNHtbvz.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 00:42:26,467 basehttp 7472 30500 "GET /recipes/add_recipe/ HTTP/1.1" 302 0
+WARNING 2024-05-13 00:42:26,474 log 7472 30500 Not Found: /accounts/login/
+WARNING 2024-05-13 00:42:26,475 basehttp 7472 30500 "GET /accounts/login/?next=/recipes/add_recipe/ HTTP/1.1" 404 2358
+INFO 2024-05-13 00:54:11,914 autoreload 7472 1360 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\models.py changed, reloading.
+INFO 2024-05-13 00:54:12,426 autoreload 36324 37264 Watching for file changes with StatReloader
+INFO 2024-05-13 00:55:26,456 autoreload 36324 37264 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\models.py changed, reloading.
+INFO 2024-05-13 00:55:26,936 autoreload 9040 37588 Watching for file changes with StatReloader
+INFO 2024-05-13 00:58:13,374 autoreload 36920 12564 Watching for file changes with StatReloader
+INFO 2024-05-13 00:58:23,073 basehttp 36920 33324 "GET /recipes/register/ HTTP/1.1" 200 1395
+INFO 2024-05-13 00:59:01,252 basehttp 36920 33324 "POST /recipes/register/ HTTP/1.1" 302 0
+INFO 2024-05-13 00:59:01,254 views 36920 33324 Index page accessed
+ERROR 2024-05-13 00:59:01,344 log 36920 33324 Internal Server Error: /recipes/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: cbookapp_recipe.author_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 20, in index
+    return render(request, 'cbookapp/index.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 198, in render
+    len_values = len(values)
+                 ^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: cbookapp_recipe.author_id
+ERROR 2024-05-13 00:59:01,352 basehttp 36920 33324 "GET /recipes/ HTTP/1.1" 500 219393
+INFO 2024-05-13 00:59:34,948 basehttp 36920 33324 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-05-13 00:59:34,967 basehttp 36920 33324 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3934
+INFO 2024-05-13 00:59:37,664 basehttp 36920 33324 "GET /admin HTTP/1.1" 301 0
+INFO 2024-05-13 00:59:37,692 basehttp 36920 19792 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-05-13 00:59:37,704 basehttp 36920 19792 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3934
+INFO 2024-05-13 00:59:46,418 basehttp 36920 19792 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-05-13 00:59:46,432 basehttp 36920 19792 "GET /admin/ HTTP/1.1" 200 7494
+ERROR 2024-05-13 00:59:50,604 log 36920 19792 Internal Server Error: /admin/cbookapp/recipe/
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: cbookapp_recipe.author_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\contrib\admin\options.py", line 2124, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+                                                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\顯闉\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: cbookapp_recipe.author_id
+ERROR 2024-05-13 00:59:50,609 basehttp 36920 19792 "GET /admin/cbookapp/recipe/ HTTP/1.1" 500 178268
+INFO 2024-05-13 01:01:58,037 autoreload 1772 24220 Watching for file changes with StatReloader
+INFO 2024-05-13 01:01:59,384 views 1772 32580 Index page accessed
+INFO 2024-05-13 01:01:59,411 basehttp 1772 32580 "GET / HTTP/1.1" 200 1811
+INFO 2024-05-13 01:02:07,750 basehttp 1772 32580 "GET /recipes/add_category/ HTTP/1.1" 200 1123
+INFO 2024-05-13 01:02:16,297 basehttp 1772 32580 "POST /recipes/add_category/ HTTP/1.1" 200 665
+INFO 2024-05-13 01:02:17,628 basehttp 1772 32580 "GET /recipes/register/ HTTP/1.1" 200 1395
+INFO 2024-05-13 01:02:18,962 views 1772 32580 Index page accessed
+INFO 2024-05-13 01:02:18,967 basehttp 1772 32580 "GET / HTTP/1.1" 200 1811
+INFO 2024-05-13 01:02:23,255 basehttp 1772 32580 "GET /recipes/login/ HTTP/1.1" 200 1203
+INFO 2024-05-13 01:02:35,464 basehttp 1772 32580 "POST /recipes/login/ HTTP/1.1" 200 1459
+INFO 2024-05-13 01:02:44,032 basehttp 1772 32580 "POST /recipes/login/ HTTP/1.1" 200 1459
+INFO 2024-05-13 01:02:58,756 basehttp 1772 32580 "POST /recipes/login/ HTTP/1.1" 200 1460
+INFO 2024-05-13 01:03:05,335 basehttp 1772 32580 "POST /recipes/login/ HTTP/1.1" 200 1460
+INFO 2024-05-13 01:03:22,785 basehttp 1772 32580 "GET /recipes/register/ HTTP/1.1" 200 1395
+INFO 2024-05-13 01:03:48,038 basehttp 1772 32580 "POST /recipes/register/ HTTP/1.1" 302 0
+INFO 2024-05-13 01:03:48,040 views 1772 32580 Index page accessed
+INFO 2024-05-13 01:03:48,045 basehttp 1772 32580 "GET /recipes/ HTTP/1.1" 200 1765
+INFO 2024-05-13 01:03:51,966 basehttp 1772 32580 "GET /recipes/add_recipe/ HTTP/1.1" 200 2575
+INFO 2024-05-13 01:04:35,947 basehttp 1772 32580 "POST /recipes/add_recipe/ HTTP/1.1" 200 611
+INFO 2024-05-13 01:14:02,353 basehttp 1772 26516 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-05-13 01:14:02,397 basehttp 1772 26516 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3935
+INFO 2024-05-13 01:14:19,690 basehttp 1772 26516 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-05-13 01:14:19,698 basehttp 1772 26516 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3935
+INFO 2024-05-13 01:14:24,935 views 1772 26516 Index page accessed
+INFO 2024-05-13 01:14:24,942 basehttp 1772 26516 "GET / HTTP/1.1" 200 2465
+WARNING 2024-05-13 01:14:24,998 log 1772 26516 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:14:24,999 basehttp 1772 26516 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:14:34,088 basehttp 1772 26516 "GET /recipes/add_recipe/ HTTP/1.1" 200 2575
+INFO 2024-05-13 01:14:39,390 basehttp 1772 26516 "GET /recipes/logout/ HTTP/1.1" 302 0
+INFO 2024-05-13 01:14:39,395 basehttp 1772 26516 "GET /recipes/login/ HTTP/1.1" 200 1203
+INFO 2024-05-13 01:14:41,354 views 1772 26516 Index page accessed
+INFO 2024-05-13 01:14:41,359 basehttp 1772 26516 "GET / HTTP/1.1" 200 2511
+WARNING 2024-05-13 01:14:41,385 log 1772 26516 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:14:41,386 basehttp 1772 26516 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:14:42,692 basehttp 1772 26516 "GET /recipes/add_recipe/ HTTP/1.1" 302 0
+WARNING 2024-05-13 01:14:42,700 log 1772 26516 Not Found: /accounts/login/
+WARNING 2024-05-13 01:14:42,701 basehttp 1772 26516 "GET /accounts/login/?next=/recipes/add_recipe/ HTTP/1.1" 404 2358
+INFO 2024-05-13 01:16:19,300 autoreload 1772 24220 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 01:16:19,798 autoreload 28560 42924 Watching for file changes with StatReloader
+INFO 2024-05-13 01:16:20,440 views 28560 38032 Index page accessed
+INFO 2024-05-13 01:16:20,451 basehttp 28560 38032 "GET / HTTP/1.1" 200 2511
+WARNING 2024-05-13 01:16:20,476 log 28560 38032 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:16:20,477 basehttp 28560 38032 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:16:21,973 views 28560 38032 Index page accessed
+INFO 2024-05-13 01:16:21,978 basehttp 28560 38032 "GET / HTTP/1.1" 200 2511
+WARNING 2024-05-13 01:16:22,000 log 28560 38032 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:16:22,000 basehttp 28560 38032 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:16:26,645 basehttp 28560 38032 "GET /recipes/all_recipes/ HTTP/1.1" 200 2476
+WARNING 2024-05-13 01:16:26,674 log 28560 38032 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:16:26,674 basehttp 28560 38032 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:16:27,864 views 28560 38032 About page accessed
+INFO 2024-05-13 01:16:27,866 basehttp 28560 38032 "GET /recipes/about/ HTTP/1.1" 200 1801
+INFO 2024-05-13 01:16:29,071 basehttp 28560 38032 "GET /recipes/add_recipe/ HTTP/1.1" 302 0
+WARNING 2024-05-13 01:16:29,077 log 28560 38032 Not Found: /accounts/login/
+WARNING 2024-05-13 01:16:29,078 basehttp 28560 38032 "GET /accounts/login/?next=/recipes/add_recipe/ HTTP/1.1" 404 2358
+INFO 2024-05-13 01:16:30,714 basehttp 28560 38032 "GET /recipes/get_recipe/test/ HTTP/1.1" 200 1096
+INFO 2024-05-13 01:16:33,112 basehttp 28560 38032 "GET /recipes/upd_recipe/test/ HTTP/1.1" 200 2744
+INFO 2024-05-13 01:16:42,459 basehttp 28560 38032 "GET /recipes/add_category/ HTTP/1.1" 302 0
+WARNING 2024-05-13 01:16:42,466 log 28560 38032 Not Found: /accounts/login/
+WARNING 2024-05-13 01:16:42,466 basehttp 28560 38032 "GET /accounts/login/?next=/recipes/add_category/ HTTP/1.1" 404 2360
+INFO 2024-05-13 01:16:45,448 basehttp 28560 38032 "GET /recipes/get_category/ HTTP/1.1" 200 858
+WARNING 2024-05-13 01:16:47,324 log 28560 38032 Not Found: /recipes/upd_category/
+WARNING 2024-05-13 01:16:47,324 basehttp 28560 38032 "GET /recipes/upd_category/ HTTP/1.1" 404 4491
+INFO 2024-05-13 01:17:16,269 basehttp 28560 38032 "GET /recipes/upd_recipe/test/ HTTP/1.1" 200 2744
+INFO 2024-05-13 01:17:16,578 autoreload 28560 42924 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py changed, reloading.
+INFO 2024-05-13 01:17:17,074 autoreload 35436 22832 Watching for file changes with StatReloader
+INFO 2024-05-13 01:17:18,525 views 35436 26944 About page accessed
+INFO 2024-05-13 01:17:18,532 basehttp 35436 26944 "GET /recipes/about/ HTTP/1.1" 200 1801
+INFO 2024-05-13 01:17:19,969 basehttp 35436 26944 "GET /recipes/upd_recipe/test/ HTTP/1.1" 302 0
+WARNING 2024-05-13 01:17:19,979 log 35436 26944 Not Found: /accounts/login/
+WARNING 2024-05-13 01:17:19,980 basehttp 35436 26944 "GET /accounts/login/?next=/recipes/upd_recipe/test/ HTTP/1.1" 404 2363
+INFO 2024-05-13 01:22:32,829 views 35436 13000 About page accessed
+INFO 2024-05-13 01:22:32,830 basehttp 35436 13000 "GET /recipes/about/ HTTP/1.1" 200 1801
+INFO 2024-05-13 01:22:34,531 views 35436 13000 About page accessed
+INFO 2024-05-13 01:22:34,534 basehttp 35436 13000 "GET /recipes/about/ HTTP/1.1" 200 2468
+INFO 2024-05-13 01:23:16,336 views 35436 13000 About page accessed
+INFO 2024-05-13 01:23:16,337 basehttp 35436 13000 "GET /recipes/about/ HTTP/1.1" 200 2468
+INFO 2024-05-13 01:23:17,384 views 35436 13000 About page accessed
+INFO 2024-05-13 01:23:17,386 basehttp 35436 13000 "GET /recipes/about/ HTTP/1.1" 200 2473
+INFO 2024-05-13 01:24:26,317 views 35436 13000 About page accessed
+INFO 2024-05-13 01:24:26,319 basehttp 35436 13000 "GET /recipes/about/ HTTP/1.1" 200 2473
+INFO 2024-05-13 01:24:29,008 views 35436 13000 Index page accessed
+INFO 2024-05-13 01:24:29,014 basehttp 35436 13000 "GET / HTTP/1.1" 200 1975
+WARNING 2024-05-13 01:24:29,043 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:24:29,044 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:24:39,286 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 2481
+WARNING 2024-05-13 01:24:39,313 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:24:39,314 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:17,124 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 2481
+WARNING 2024-05-13 01:25:17,144 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:17,144 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:17,703 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 1960
+WARNING 2024-05-13 01:25:17,721 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:17,722 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:19,818 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 1960
+WARNING 2024-05-13 01:25:19,837 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:19,838 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:20,901 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 1960
+WARNING 2024-05-13 01:25:20,919 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:20,919 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:21,898 views 35436 13000 Index page accessed
+INFO 2024-05-13 01:25:21,902 basehttp 35436 13000 "GET / HTTP/1.1" 200 1975
+WARNING 2024-05-13 01:25:21,930 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:21,930 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:22,658 views 35436 13000 Index page accessed
+INFO 2024-05-13 01:25:22,662 basehttp 35436 13000 "GET / HTTP/1.1" 200 1975
+WARNING 2024-05-13 01:25:22,680 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:22,681 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:23,379 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 1960
+WARNING 2024-05-13 01:25:23,408 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:23,409 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:24,042 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 1960
+WARNING 2024-05-13 01:25:24,062 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:24,063 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:25,377 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 1960
+WARNING 2024-05-13 01:25:25,398 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:25,398 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:26,060 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 1960
+WARNING 2024-05-13 01:25:26,078 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:26,079 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:26,945 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 1960
+WARNING 2024-05-13 01:25:26,963 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:26,963 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:28,521 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 1960
+WARNING 2024-05-13 01:25:28,540 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:28,541 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:29,667 views 35436 13000 Index page accessed
+INFO 2024-05-13 01:25:29,671 basehttp 35436 13000 "GET / HTTP/1.1" 200 1975
+WARNING 2024-05-13 01:25:29,700 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:29,700 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:30,194 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 1960
+WARNING 2024-05-13 01:25:30,218 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:30,219 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:30,672 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 1960
+WARNING 2024-05-13 01:25:30,690 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:30,691 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:43,310 basehttp 35436 13000 "GET /recipes/get_recipe/test/ HTTP/1.1" 200 1101
+INFO 2024-05-13 01:25:46,012 views 35436 13000 Index page accessed
+INFO 2024-05-13 01:25:46,017 basehttp 35436 13000 "GET / HTTP/1.1" 200 1975
+WARNING 2024-05-13 01:25:46,045 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:46,045 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:46,976 basehttp 35436 13000 "GET /recipes/get_category/ HTTP/1.1" 200 863
+INFO 2024-05-13 01:25:48,589 views 35436 13000 Index page accessed
+INFO 2024-05-13 01:25:48,594 basehttp 35436 13000 "GET / HTTP/1.1" 200 1975
+WARNING 2024-05-13 01:25:48,618 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:48,619 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:52,015 basehttp 35436 13000 "GET /recipes/get_recipe/test/ HTTP/1.1" 200 1101
+INFO 2024-05-13 01:25:54,558 views 35436 13000 Index page accessed
+INFO 2024-05-13 01:25:54,564 basehttp 35436 13000 "GET / HTTP/1.1" 200 1975
+WARNING 2024-05-13 01:25:54,587 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:25:54,587 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:25:55,224 basehttp 35436 13000 "GET /recipes/register/ HTTP/1.1" 200 1400
+INFO 2024-05-13 01:25:57,890 basehttp 35436 13000 "GET /recipes/login/ HTTP/1.1" 200 1208
+INFO 2024-05-13 01:26:01,371 basehttp 35436 13000 "POST /recipes/login/ HTTP/1.1" 302 0
+INFO 2024-05-13 01:26:01,373 views 35436 13000 Index page accessed
+INFO 2024-05-13 01:26:01,378 basehttp 35436 13000 "GET / HTTP/1.1" 200 2439
+WARNING 2024-05-13 01:26:01,405 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:26:01,406 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:26:07,368 views 35436 13000 Index page accessed
+INFO 2024-05-13 01:26:07,374 basehttp 35436 13000 "GET / HTTP/1.1" 200 2439
+WARNING 2024-05-13 01:26:07,394 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:26:07,394 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:26:08,140 basehttp 35436 13000 "GET /recipes/all_recipes/ HTTP/1.1" 200 2424
+WARNING 2024-05-13 01:26:08,162 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:26:08,162 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605
+INFO 2024-05-13 01:26:08,907 basehttp 35436 13000 "GET /recipes/add_recipe/ HTTP/1.1" 200 2580
+INFO 2024-05-13 01:26:19,564 basehttp 35436 13000 "GET /recipes/logout/ HTTP/1.1" 302 0
+INFO 2024-05-13 01:26:19,567 basehttp 35436 13000 "GET /recipes/login/ HTTP/1.1" 200 1208
+INFO 2024-05-13 01:26:22,202 views 35436 13000 Index page accessed
+INFO 2024-05-13 01:26:22,206 basehttp 35436 13000 "GET / HTTP/1.1" 200 1975
+WARNING 2024-05-13 01:26:22,232 log 35436 13000 Not Found: /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg
+WARNING 2024-05-13 01:26:22,233 basehttp 35436 13000 "GET /media/media/products/two-pieces-of-tasty-sunny-side-up-egg-for-breakfast-wallpaper-1280x1024_3_3gt4GLG.jpg HTTP/1.1" 404 2605

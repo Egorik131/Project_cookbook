@@ -5,9 +5,19 @@
     <title>{% block title %}Сайт{% endblock %}</title>
 </head>
 <body>
-    {% block content %}
-        Скоро тут появится текст...
-    {% endblock %}
+{% block mainmenu %}
+{% if request.user.is_authenticated %}
+<ul>
+    <li>{{ user.username }}|<a href="{% url 'logout' %}">Выйти</a></li>
+    {% else %}
+    <li><a href="{% url 'register' %}">Регистрация</a>|<a href="{% url 'login' %}">Войти</a></li>
+</ul>
+{% endif %}
+{% endblock %}
+<br>
+{% block content %}
+Скоро тут появится текст...
+{% endblock %}
 <div class="row fixed-bottom modal-footer">
     <hr>
     <p>Все права защищены &copy; Мельниченко Егор</p>

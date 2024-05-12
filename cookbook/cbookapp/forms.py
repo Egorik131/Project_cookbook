@@ -1,4 +1,7 @@
 from django import forms
+from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
+from django.contrib.auth.models import User
+
 from .models import Categories, Recipe
 
 
@@ -53,5 +56,28 @@ class RecipeForm(forms.ModelForm):
         self.fields['cooking_steps'].widget = forms.TextInput(attrs={'placeholder': '1. Нарезать мясо, 2. ...'})
         self.fields['cooking_time'].widget = forms.TextInput(attrs={'placeholder': '120 минут'})
         self.fields['img_file'].widget = forms.FileInput(attrs={'placeholder': 'Bзображение'})
-        self.fields['author'].widget = forms.TextInput(attrs={'placeholder': 'Имя автора'})
+        # self.fields['author'].widget = forms.TextInput(attrs={'placeholder': 'Имя автора'})
         self.fields['ingredients'].widget = forms.TextInput(attrs={'placeholder': 'Мясо, Лук, Соль, ...'})
+
+
+'''Регистрация и авторизация пользователей'''
+
+
+class RegisterUserForm(UserCreationForm):
+    username = forms.CharField(label="Логин", widget=forms.TextInput(attrs={'class': 'form-input'}))
+    password1 = forms.CharField(label="Пароль", widget=forms.PasswordInput(attrs={'class': 'form-input'}))
+    password2 = forms.CharField(label="Повтор пароля", widget=forms.PasswordInput(attrs={'class': 'form-input'}))
+
+    class Meta:
+        model = User
+        fields = ['username', 'password1', 'password2']
+        labels = {
+            'username': 'Никнейм',
+            'password1': 'Пароль',
+            'password2': 'Повторить пароль',
+        }
+
+
+class LoginUserForm(AuthenticationForm):
+    username = forms.CharField(label='Логин', widget=forms.TextInput(attrs={'class': 'form-input'}))
+    password = forms.CharField(label='Пароль', widget=forms.PasswordInput(attrs={'class': 'form-input'}))

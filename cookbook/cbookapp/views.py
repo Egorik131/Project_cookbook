@@ -1,10 +1,14 @@
+from django.contrib.auth import logout, login
 from django.contrib.auth.decorators import login_required
+from django.contrib.auth.views import LoginView
 from django.shortcuts import render, get_object_or_404, redirect
 import logging
 from django.core.files.storage import FileSystemStorage
-from django.http import HttpResponse
-from .models import Recipe, Categories, Catalog
-from .forms import RecipeForm, CategoryForm
+from django.urls import reverse_lazy
+from django.views.generic import CreateView
+
+from .models import Recipe, Categories
+from .forms import RecipeForm, CategoryForm, RegisterUserForm, LoginUserForm
 
 logger = logging.getLogger(__name__)
 
@@ -26,7 +30,7 @@ def get_recipes(request):
     context = {'recipes': recipes}
     return render(request, 'cbookapp/main.html', context)
 
-
+@login_required
 def add_category(request):
     if request.method == 'POST':
         form = CategoryForm(request.POST)
@@ -46,7 +50,7 @@ def get_category(request):
     context = {'categories': categories, 'name': 'Категории'}
     return render(request, 'cbookapp/get_category.html', context)
 
-
+@login_required
 def upd_category(request, cat_name):
     category = Categories.objects.filter(name=cat_name).first()
     if category is not None:
@@ -63,7 +67,7 @@ def upd_category(request, cat_name):
     return render(request, 'cbookapp/page_404.html', {'message': cat_name})
 
 
-# @login_required
+@login_required
 def add_recipe(request):
     if request.method == 'POST':
         form = RecipeForm(request.POST, request.FILES)
@@ -87,7 +91,7 @@ def add_recipe(request):
                                 cooking_time=cooking_time, author=author, ingredients=ingredients, category=category)
             # recipe.save()
             # recipe = form.save(commit=False)
-            # recipe.author = request.user
+            recipe.author = request.user
             recipe.save()
             return render(request, 'cbookapp/recipe_form.html', {'answer': "Рецепт добавлен"})
     else:
@@ -96,7 +100,6 @@ def add_recipe(request):
     return render(request, 'cbookapp/recipe_form.html', {'form': form, 'message': message})
 
 
-# @login_required
 def get_recipe_by_name(request, name):
     recipe = Recipe.objects.filter(name=name).first()
     if recipe is not None:
@@ -106,7 +109,7 @@ def get_recipe_by_name(request, name):
     return render(request, 'cbookapp/page_404.html', {'message': name})
 
 
-# @login_required
+@login_required
 def upd_recipe(request, name):
     recipe = Recipe.objects.filter(name=name).first()
     if recipe is not None:
@@ -121,3 +124,30 @@ def upd_recipe(request, name):
             message = f'Внести изменение в рецепт "{name}"'
         return render(request, 'cbookapp/recipe_form.html', {'form': form, 'message': message})
     return render(request, 'cbookapp/page_404.html', {'message': name})
+
+
+''' Регистрация и авторизация пользователей '''
+
+
+class RegisterUser(CreateView):
+    form_class = RegisterUserForm
+    template_name = 'cbookapp/register.html'
+    success_url = reverse_lazy('login')
+
+    def form_valid(self, form):
+        user = form.save()
+        login(self.request, user)
+        return redirect('index')
+
+
+class LoginUser(LoginView):
+    form_class = LoginUserForm
+    template_name = 'cbookapp/login.html'
+
+    # def get_success_url(self):
+    #     return reverse_lazy('index')
+
+
+def logout_user(request):
+    logout(request)
+    return redirect('login')
