@@ -7,8 +7,8 @@
     {% if request.user.is_authenticated %}
     <ul>
         <li class="nav-item"><a href="/" class="nav-link">Главная страница</a></li>
-        <li class="nav-item"><a href="/recipes/all_recipes/" class="nav-link">Все рецепты</a></li>
-        <li class="nav-item"><a href="" class="nav-link">О сайте</a></li>
+        <li class="nav-item"><a href="" class="nav-link">Все рецепты</a></li>
+        <li class="nav-item"><a href="/recipes/about/" class="nav-link">О сайте</a></li>
         <li class="nav-item"><a href="/recipes/add_recipe/" class="nav-link">Добавить рецепт</a></li>
         <li class="nav-item"><a href="/recipes/get_recipe/test/" class="nav-link">Просмотр рецепта по названию</a></li>
         <li class="nav-item"><a href="/recipes/upd_recipe/test/" class="nav-link">Изменить рецепт по названию</a></li>
@@ -17,8 +17,8 @@
         <li class="nav-item"><a href="/recipes/upd_category/" class="nav-link">Изменить категорию</a></li>
         {% else %}
         <li class="nav-item"><a href="/" class="nav-link">Главная страница</a></li>
-        <li class="nav-item"><a href="/recipes/all_recipes/" class="nav-link">Все рецепты</a></li>
-        <li class="nav-item"><a href="" class="nav-link">О сайте</a></li>
+        <li class="nav-item"><a href="" class="nav-link">Все рецепты</a></li>
+        <li class="nav-item"><a href="/recipes/about/" class="nav-link">О сайте</a></li>
         <li class="nav-item"><a href="/recipes/get_recipe/test/" class="nav-link">Просмотр рецепта по названию</a></li>
         <li class="nav-item"><a href="/recipes/get_category/" class="nav-link">Посмотреть все категории</a></li>
     </ul>

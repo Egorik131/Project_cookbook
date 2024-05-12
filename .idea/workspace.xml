@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21d458b2-1e55-4c53-9092-69712a8fbabf" name="Changes" comment="work upd 2 whitout reg">
-      <change afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cookbook/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cookbook/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/log/django.log" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/log/django.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/templates/base.html" afterDir="false" />
+    <list default="true" id="21d458b2-1e55-4c53-9092-69712a8fbabf" name="Changes" comment="work upd backend done">
+      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,12 +93,30 @@
       <option name="project" value="LOCAL" />
       <updated>1715543005014</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="work upd 2 backend done">
+      <option name="closed" value="true" />
+      <created>1715552885419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715552885419</updated>
+    </task>
+    <task id="LOCAL-00005" summary="work upd backend done">
+      <option name="closed" value="true" />
+      <created>1715552905596</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715552905596</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="work upd" />
     <MESSAGE value="work upd 2 whitout reg" />
-    <option name="LAST_COMMIT_MESSAGE" value="work upd 2 whitout reg" />
+    <MESSAGE value="work upd 2 backend done" />
+    <MESSAGE value="work upd backend done" />
+    <option name="LAST_COMMIT_MESSAGE" value="work upd backend done" />
   </component>
 </project>
