@@ -83,16 +83,12 @@ def add_recipe(request):
             category = form.cleaned_data['category']
             try:
                 img_file = form.cleaned_data['img_file']
-                # fs = FileSystemStorage()
-                # fs.save(img_file.name, img_file)
                 recipe = Recipe(name=name, description=description, cooking_steps=cooking_steps,
                                 cooking_time=cooking_time,
                                 author=author, ingredients=ingredients, category=category, img_file=img_file)
             except:
                 recipe = Recipe(name=name, description=description, cooking_steps=cooking_steps,
                                 cooking_time=cooking_time, author=author, ingredients=ingredients, category=category)
-            # recipe.save()
-            # recipe = form.save(commit=False)
             recipe.author = request.user
             recipe.save()
             return render(request, 'cbookapp/recipe_form.html', {'answer': "Рецепт добавлен"})

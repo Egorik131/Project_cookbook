@@ -4,29 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21d458b2-1e55-4c53-9092-69712a8fbabf" name="Changes" comment="work upd backend done">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="21d458b2-1e55-4c53-9092-69712a8fbabf" name="Changes" comment="work done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/category_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/category_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/get_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/get_category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/get_recipe_to_id.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/get_recipe_to_id.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/page_404.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/page_404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/recipe.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/recipe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/recipe_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/recipe_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/templates/cbookapp/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cookbook/cbookapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cbookapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cookbook/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cookbook/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/cookbook/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/cookbook/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cookbook/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cookbook/log/django.log" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/log/django.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookbook/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +124,111 @@
       <option name="project" value="LOCAL" />
       <updated>1715553232765</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638392448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638392448</updated>
+    </task>
+    <task id="LOCAL-00008" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638467483</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638467484</updated>
+    </task>
+    <task id="LOCAL-00009" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638515736</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638515736</updated>
+    </task>
+    <task id="LOCAL-00010" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638523360</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638523360</updated>
+    </task>
+    <task id="LOCAL-00011" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638530761</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638530761</updated>
+    </task>
+    <task id="LOCAL-00012" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638549220</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638549220</updated>
+    </task>
+    <task id="LOCAL-00013" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638559341</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638559341</updated>
+    </task>
+    <task id="LOCAL-00014" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638571171</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638571171</updated>
+    </task>
+    <task id="LOCAL-00015" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638581586</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638581586</updated>
+    </task>
+    <task id="LOCAL-00016" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638595952</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638595952</updated>
+    </task>
+    <task id="LOCAL-00017" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638603211</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638603211</updated>
+    </task>
+    <task id="LOCAL-00018" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638619803</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638619803</updated>
+    </task>
+    <task id="LOCAL-00019" summary="work done">
+      <option name="closed" value="true" />
+      <created>1715638629674</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1715638629674</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,6 +236,7 @@
     <MESSAGE value="work upd 2 whitout reg" />
     <MESSAGE value="work upd 2 backend done" />
     <MESSAGE value="work upd backend done" />
-    <option name="LAST_COMMIT_MESSAGE" value="work upd backend done" />
+    <MESSAGE value="work done" />
+    <option name="LAST_COMMIT_MESSAGE" value="work done" />
   </component>
 </project>

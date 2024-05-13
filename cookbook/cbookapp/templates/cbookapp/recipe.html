@@ -4,17 +4,34 @@
 
 {% block content %}
 <h3>{{ name }}</h3>
-        <div class="card" style="width: 30rem;">
-            <img src="{{ recipe.img_file.url }}" class="card-img-top" alt="Фото {{ recipe.name }}">
-            <div class="card-body">
-                <h5 class="card-title">{{ recipe.name }}</h5>
-                <p class="card-text">Описание: {{ recipe.description }}</p>
-                <p class="card-text">Время приготовления: {{ recipe.cooking_time }}</p>
-                <p class="card-text">Ингредиенты: {{ recipe.ingredients }}</p>
-                <p class="card-text">Шаги приготовления: {{ recipe.cooking_steps }}</p>
-                <p class="card-text">Автор: {{ recipe.author }}</p>
-                <p class="card-text">Категория: {{ recipe.category }}</p>
-                <a href="{% url 'upd_recipe' recipe.name %}" class="btn btn-primary">Изменить рецепт</a>
-            </div>
-        </div>
+{% if request.user.is_authenticated %}
+<div class="card" style="width: 30rem;">
+    <img src="{{ recipe.img_file.url }}" class="card-img-top" alt="Фото {{ recipe.name }}">
+    <div class="card-body">
+        <h5 class="card-title">{{ recipe.name }}</h5>
+        <p class="card-text">Описание: {{ recipe.description }}</p>
+        <p class="card-text">Время приготовления: {{ recipe.cooking_time }}</p>
+        <p class="card-text">Ингредиенты: {{ recipe.ingredients }}</p>
+        <p class="card-text">Шаги приготовления: {{ recipe.cooking_steps }}</p>
+        <p class="card-text">Автор: {{ recipe.author }}</p>
+        <p class="card-text">Категория: {{ recipe.category }}</p>
+        <a href="{% url 'upd_recipe' recipe.name %}" class="btn btn-primary">Изменить рецепт</a>
+    </div>
+</div>
+{% else %}
+<div class="card" style="width: 30rem;">
+    <img src="{{ recipe.img_file.url }}" class="card-img-top" alt="Фото {{ recipe.name }}">
+    <div class="card-body">
+        <h5 class="card-title">{{ recipe.name }}</h5>
+        <p class="card-text">Описание: {{ recipe.description }}</p>
+        <p class="card-text">Время приготовления: {{ recipe.cooking_time }}</p>
+        <p class="card-text">Ингредиенты: {{ recipe.ingredients }}</p>
+        <p class="card-text">Шаги приготовления: {{ recipe.cooking_steps }}</p>
+        <p class="card-text">Автор: {{ recipe.author }}</p>
+        <p class="card-text">Категория: {{ recipe.category }}</p>
+        <a href="#" class="btn btn-secondary">Изменить рецепт</a>
+        <p class="card-text"><i>Внесение изменений доступно для авторизированных пользователей</i></p>
+    </div>
+</div>
+{% endif %}
 {% endblock %}
