@@ -9924,3 +9924,29 @@ INFO 2024-05-14 01:31:17,704 basehttp 22516 36168 "GET /recipes/get_recipe/%D0%9
 INFO 2024-05-14 01:31:19,214 basehttp 22516 36168 "GET /recipes/get_recipe/%D0%93%D0%BB%D0%B0%D0%B7%D1%83%D0%BD%D1%8C%D1%8F/ HTTP/1.1" 200 2731
 INFO 2024-05-14 01:32:30,590 basehttp 22516 36168 "GET /recipes/get_recipe/%D0%93%D0%BB%D0%B0%D0%B7%D1%83%D0%BD%D1%8C%D1%8F/ HTTP/1.1" 200 2731
 INFO 2024-05-14 01:32:31,611 basehttp 22516 36168 "GET /recipes/get_recipe/%D0%93%D0%BB%D0%B0%D0%B7%D1%83%D0%BD%D1%8C%D1%8F/ HTTP/1.1" 200 2891
+INFO 2024-05-14 01:35:19,994 views 22516 36168 Index page accessed
+INFO 2024-05-14 01:35:20,005 basehttp 22516 36168 "GET / HTTP/1.1" 200 5707
+INFO 2024-05-14 01:35:20,031 basehttp 22516 36168 "GET /media/media/products/borsh.jpg HTTP/1.1" 304 0
+INFO 2024-05-14 01:35:20,035 basehttp 22516 36168 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 304 0
+INFO 2024-05-14 01:35:20,035 basehttp 22516 28096 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 304 0
+INFO 2024-05-14 01:35:20,036 basehttp 22516 5840 "GET /media/media/products/zesar.jpeg HTTP/1.1" 304 0
+INFO 2024-05-14 01:35:21,240 basehttp 22516 5840 "GET /recipes/all_recipes/ HTTP/1.1" 200 6300
+INFO 2024-05-14 01:35:21,256 basehttp 22516 5840 "GET /media/media/products/pig_shashlik.jpeg HTTP/1.1" 304 0
+INFO 2024-05-14 01:35:23,483 basehttp 22516 5840 "GET /recipes/get_category/ HTTP/1.1" 200 2226
+INFO 2024-05-14 01:35:30,570 views 22516 5840 About page accessed
+INFO 2024-05-14 01:35:30,571 basehttp 22516 5840 "GET /recipes/about/ HTTP/1.1" 200 1623
+INFO 2024-05-14 01:35:33,398 basehttp 22516 5840 "GET /recipes/get_category/ HTTP/1.1" 200 2226
+INFO 2024-05-14 01:35:34,756 basehttp 22516 5840 "GET /recipes/all_recipes/ HTTP/1.1" 200 6300
+INFO 2024-05-14 01:35:35,415 views 22516 5840 Index page accessed
+INFO 2024-05-14 01:35:35,422 basehttp 22516 5840 "GET / HTTP/1.1" 200 5707
+INFO 2024-05-14 01:36:06,285 basehttp 22516 5840 "GET /recipes/all_recipes/ HTTP/1.1" 200 6300
+INFO 2024-05-14 01:38:39,586 autoreload 22516 37592 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cookbook\settings.py changed, reloading.
+INFO 2024-05-14 01:38:40,131 autoreload 14600 38324 Watching for file changes with StatReloader
+INFO 2024-05-14 01:53:07,801 autoreload 14600 38324 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cookbook\settings.py changed, reloading.
+INFO 2024-05-14 01:53:08,241 autoreload 6148 42552 Watching for file changes with StatReloader
+INFO 2024-05-14 01:53:48,258 autoreload 6148 42552 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cookbook\settings.py changed, reloading.
+INFO 2024-05-14 01:53:48,757 autoreload 13412 12672 Watching for file changes with StatReloader
+INFO 2024-05-14 01:55:42,726 autoreload 13412 12672 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cookbook\settings.py changed, reloading.
+INFO 2024-05-14 01:55:43,232 autoreload 44188 26048 Watching for file changes with StatReloader
+INFO 2024-05-14 01:57:03,671 autoreload 44188 26048 C:\Users\顯闉\PycharmProjects\Project_cookbook\cookbook\cookbook\settings.py changed, reloading.
+INFO 2024-05-14 01:57:04,186 autoreload 39208 43568 Watching for file changes with StatReloader
