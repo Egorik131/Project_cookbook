@@ -1,27 +1,46 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+    {% load static %}
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{% static 'bootstrap/css/bootstrap.min.css' %}">
+    <script type="text/javascript" href="{% static 'bootstrap/js/bootstrap.min.js' %}"></script>
     <title>{% block title %}Сайт{% endblock %}</title>
 </head>
 <body>
+
 {% block mainmenu %}
-{% if request.user.is_authenticated %}
-<ul>
-    <li>{{ user.username }}|<a href="{% url 'logout' %}">Выйти</a></li>
+<ul class="nav nav-pills">
+    {% if request.user.is_authenticated %}
+    <li class="nav-item"><a class="nav-link" aria-current="page" href="/">Главная страница</a></li>
+    <li class="nav-item"><a class="nav-link" href="/recipes/all_recipes/">Все рецепты</a></li>
+    <li class="nav-item"><a class="nav-link" href="/recipes/add_recipe/">Добавить рецепт</a></li>
+    <li class="nav-item"><a class="nav-link" href="/recipes/get_category/">Категории</a></li>
+    <li class="nav-item"><a class="nav-link" href="/recipes/about/">О проекте</a></li>
+    <p class="nav-link">|</p>
+    <li class="nav-item"><p class="nav-link active"> {{ user.username }}</p></li>
+    <p class="nav-link"></p>
+    <li class="nav-item"><a class="nav-link active" href="{% url 'logout' %}">Выйти</a></li>
     {% else %}
-    <li><a href="{% url 'register' %}">Регистрация</a>|<a href="{% url 'login' %}">Войти</a></li>
+    <li class="nav-item"><a class="nav-link" aria-current="page" href="/">Главная страница</a></li>
+    <li class="nav-item"><a class="nav-link" href="/recipes/all_recipes/">Все рецепты</a></li>
+    <li class="nav-item"><a class="nav-link disabled" href="#">Добавить рецепт</a></li>
+    <li class="nav-item"><a class="nav-link" href="/recipes/get_category/">Категории</a></li>
+    <li class="nav-item"><a class="nav-link" href="/recipes/about/">О проекте</a></li>
+    <p class="nav-link">|</p>
+    <li class="nav-item"><a class="nav-link active" href="{% url 'register' %}">Регистрация</a></li>
+    <p class="nav-link"></p>
+    <li class="nav-item"><a class="nav-link active" href="{% url 'login' %}">Войти</a></li>
+    {% endif %}
 </ul>
-{% endif %}
 {% endblock %}
 <br>
 {% block content %}
 Скоро тут появится текст...
 {% endblock %}
 <div class="row fixed-bottom modal-footer">
-    <hr>
-    <p>Все права защищены &copy; Мельниченко Егор</p>
+    <footer><i>Все права защищены - Мельниченко Егор - 2024 &copy; </i></footer>
 </div>
-<footer><i>*** Базовый шаблон проекта ***</i></footer>
 </body>
 </html>

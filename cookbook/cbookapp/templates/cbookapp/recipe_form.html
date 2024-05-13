@@ -1,17 +1,17 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<ul class="navigate">
-    <li class="nav-item"><a href="/" class="nav-link">Вернуться на главную страницу</a></li>
-</ul>
 <h3>{{ message }}</h3>
 {% if answer %}
-{{ answer }}
+<h2>{{ answer }}</h2>
 {% else %}
 <form action="" method="post" enctype="multipart/form-data">
     {% csrf_token %}
-    {{ form.as_p }}
-    <input type="submit" value="{{ message }}">
+    <table class="table table-striped table-hover">
+        {{ form.as_table }}
+    </table>
+    <input type="submit" class="btn btn-primary" value="{{ message }}">
+
 </form>
 {% endif %}
 

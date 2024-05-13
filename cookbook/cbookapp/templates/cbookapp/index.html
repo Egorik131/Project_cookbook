@@ -4,47 +4,23 @@
 
 {% block content %}
 <div class="container-fluid">
-    {% if request.user.is_authenticated %}
-    <ul>
-        <li class="nav-item"><a href="" class="nav-link">Главная страница</a></li>
-        <li class="nav-item"><a href="/recipes/all_recipes/" class="nav-link">Все рецепты</a></li>
-        <li class="nav-item"><a href="/recipes/about/" class="nav-link">О сайте</a></li>
-        <li class="nav-item"><a href="/recipes/add_recipe/" class="nav-link">Добавить рецепт</a></li>
-        <li class="nav-item"><a href="/recipes/get_recipe/test/" class="nav-link">Просмотр рецепта по названию</a></li>
-        <li class="nav-item"><a href="/recipes/upd_recipe/test/" class="nav-link">Изменить рецепт по названию</a></li>
-        <li class="nav-item"><a href="/recipes/add_category/" class="nav-link">Добавить категорию</a></li>
-        <li class="nav-item"><a href="/recipes/get_category/" class="nav-link">Посмотреть все категории</a></li>
-        <li class="nav-item"><a href="/recipes/upd_category/" class="nav-link">Изменить категорию</a></li>
-        {% else %}
-        <li class="nav-item"><a href="" class="nav-link">Главная страница</a></li>
-        <li class="nav-item"><a href="/recipes/all_recipes/" class="nav-link">Все рецепты</a></li>
-        <li class="nav-item"><a href="/recipes/about/" class="nav-link">О сайте</a></li>
-        <li class="nav-item"><a href="/recipes/get_recipe/test/" class="nav-link">Просмотр рецепта по названию</a></li>
-        <li class="nav-item"><a href="/recipes/get_category/" class="nav-link">Посмотреть все категории</a></li>
-    </ul>
-    {% endif %}
-
     <h1 class="heading">Книга рецептов</h1>
     <h2 class="heading">Список рецептов</h2>
-    <div class="">
+
+    <div class="row row-cols-1 row-cols-md-2 g-4">
         {% for recipe in recipes %}
-        <div class="">
-            {% if recipe.img_file %}
-            <img src="{{ recipe.img_file.url }}" class="images" alt="Фото {{ recipe.name }}">
-            {% endif %}
-            <div class="">
-                <h4 class="title"> Блюдо: {{ recipe.name }}</h4>
-                <p class="title"> Автор: {{ recipe.author }}</p>
-                <p class="text"> Категории: {{ recipe.category }}</p>
-                <p class="text"> Ингредиенты: {{ recipe.ingredients }}</p>
-            </div>
-            <div class="">
-                <a href="{% url 'get_recipe_by_name' recipe.name %}"
-                   class="link">Посмотреть рецепт</a>
+        <div class="card" style="width: 18rem;">
+            <img src="{{ recipe.img_file.url }}" class="card-img-top" alt="Фото {{ recipe.name }}">
+            <div class="card-body">
+                <h5 class="card-title">{{ recipe.name }}</h5>
+                <p class="card-text">Ингредиенты: {{ recipe.ingredients }}</p>
+                <p class="card-text">Автор: {{ recipe.author }}</p>
+                <p class="card-text">Категория: {{ recipe.category }}</p>
+                <a href="{% url 'get_recipe_by_name' recipe.name %}" class="btn btn-primary">Посмотреть
+                    рецепт</a>
             </div>
         </div>
         {% endfor %}
     </div>
-
 </div>
 {% endblock %}

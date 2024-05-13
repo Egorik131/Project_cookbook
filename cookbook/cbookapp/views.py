@@ -30,6 +30,7 @@ def get_recipes(request):
     context = {'recipes': recipes}
     return render(request, 'cbookapp/main.html', context)
 
+
 @login_required
 def add_category(request):
     if request.method == 'POST':
@@ -49,6 +50,7 @@ def get_category(request):
     categories = Categories.objects.all()
     context = {'categories': categories, 'name': 'Категории'}
     return render(request, 'cbookapp/get_category.html', context)
+
 
 @login_required
 def upd_category(request, cat_name):

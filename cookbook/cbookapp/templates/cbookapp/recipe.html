@@ -2,24 +2,19 @@
 
 {% block title %}{{ name }}{% endblock %}
 
-
 {% block content %}
-
-<ul class="navigate">
-    <li class="nav-item"><a href="/" class="nav-link">Вернуться на главную страницу</a></li>
-</ul>
-
 <h3>{{ name }}</h3>
-
-<ul>
-    <li> Блюдо: {{ recipe.name }}</li>
-    <li> Описание: {{ recipe.description }}</li>
-    <li> Шаги приготовления: {{ recipe.cooking_steps }}</li>
-    <li> Время приготовления: {{ recipe.cooking_time }}</li>
-    <li> Изображение: {{ recipe.img_file }}</li>
-    <li> Автор: {{ recipe.author }}</li>
-    <li> Ингридиенты: {{ recipe.ingredients }}</li>
-    <li> Категория: {{ recipe.category }}</li>
-</ul>
-
+        <div class="card" style="width: 30rem;">
+            <img src="{{ recipe.img_file.url }}" class="card-img-top" alt="Фото {{ recipe.name }}">
+            <div class="card-body">
+                <h5 class="card-title">{{ recipe.name }}</h5>
+                <p class="card-text">Описание: {{ recipe.description }}</p>
+                <p class="card-text">Время приготовления: {{ recipe.cooking_time }}</p>
+                <p class="card-text">Ингредиенты: {{ recipe.ingredients }}</p>
+                <p class="card-text">Шаги приготовления: {{ recipe.cooking_steps }}</p>
+                <p class="card-text">Автор: {{ recipe.author }}</p>
+                <p class="card-text">Категория: {{ recipe.category }}</p>
+                <a href="{% url 'upd_recipe' recipe.name %}" class="btn btn-primary">Изменить рецепт</a>
+            </div>
+        </div>
 {% endblock %}
