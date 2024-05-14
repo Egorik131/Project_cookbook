@@ -9950,3 +9950,345 @@ INFO 2024-05-14 01:55:42,726 autoreload 13412 12672 C:\Users\Егор\PycharmProject
 INFO 2024-05-14 01:55:43,232 autoreload 44188 26048 Watching for file changes with StatReloader
 INFO 2024-05-14 01:57:03,671 autoreload 44188 26048 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cookbook\settings.py changed, reloading.
 INFO 2024-05-14 01:57:04,186 autoreload 39208 43568 Watching for file changes with StatReloader
+INFO 2024-05-14 03:39:03,999 autoreload 16212 33168 Watching for file changes with StatReloader
+INFO 2024-05-14 03:39:05,678 views 16212 34060 Index page accessed
+INFO 2024-05-14 03:39:05,701 basehttp 16212 34060 "GET / HTTP/1.1" 200 5707
+WARNING 2024-05-14 03:39:05,747 log 16212 34060 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-14 03:39:05,747 log 16212 44716 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-14 03:39:05,748 basehttp 16212 34060 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:05,751 log 16212 10400 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-14 03:39:05,752 basehttp 16212 44716 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:05,755 basehttp 16212 10400 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:05,757 log 16212 18812 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-14 03:39:05,759 log 16212 35220 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-14 03:39:05,760 basehttp 16212 18812 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:05,760 basehttp 16212 35220 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+INFO 2024-05-14 03:39:12,721 basehttp 16212 35220 "GET /recipes/get_recipe/%D0%9A%D1%83%D1%80%D0%B8%D0%BD%D1%8B%D0%B5%20%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA%D0%B8/ HTTP/1.1" 200 3813
+WARNING 2024-05-14 03:39:12,742 log 16212 35220 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-14 03:39:12,742 basehttp 16212 35220 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+INFO 2024-05-14 03:39:19,200 views 16212 35220 Index page accessed
+INFO 2024-05-14 03:39:19,209 basehttp 16212 35220 "GET / HTTP/1.1" 200 5707
+WARNING 2024-05-14 03:39:19,228 log 16212 35220 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-14 03:39:19,229 basehttp 16212 35220 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:19,231 log 16212 18812 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-14 03:39:19,233 log 16212 35220 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-14 03:39:19,234 log 16212 44716 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-14 03:39:19,235 log 16212 10400 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-14 03:39:19,235 basehttp 16212 18812 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:19,236 basehttp 16212 35220 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:19,236 basehttp 16212 44716 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:19,237 basehttp 16212 10400 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+INFO 2024-05-14 03:39:20,783 basehttp 16212 10400 "GET /recipes/all_recipes/ HTTP/1.1" 200 6300
+WARNING 2024-05-14 03:39:20,809 log 16212 10400 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-14 03:39:20,810 basehttp 16212 10400 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:20,813 log 16212 10400 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-14 03:39:20,814 log 16212 44716 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-14 03:39:20,815 log 16212 18812 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-14 03:39:20,816 log 16212 34060 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-14 03:39:20,817 log 16212 35220 Not Found: /media/media/products/pig_shashlik.jpeg
+WARNING 2024-05-14 03:39:20,818 basehttp 16212 10400 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:20,818 basehttp 16212 44716 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:20,819 basehttp 16212 18812 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:20,819 basehttp 16212 34060 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:20,820 basehttp 16212 35220 "GET /media/media/products/pig_shashlik.jpeg HTTP/1.1" 404 179
+INFO 2024-05-14 03:39:22,834 basehttp 16212 35220 "GET /recipes/get_category/ HTTP/1.1" 200 2226
+INFO 2024-05-14 03:39:24,411 basehttp 16212 35220 "GET /recipes/login/ HTTP/1.1" 200 2126
+INFO 2024-05-14 03:39:27,096 basehttp 16212 35220 "POST /recipes/login/ HTTP/1.1" 302 0
+INFO 2024-05-14 03:39:27,098 views 16212 35220 Index page accessed
+INFO 2024-05-14 03:39:27,106 basehttp 16212 35220 "GET / HTTP/1.1" 200 5676
+WARNING 2024-05-14 03:39:27,123 log 16212 35220 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-14 03:39:27,124 log 16212 34060 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-14 03:39:27,125 basehttp 16212 35220 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:27,125 basehttp 16212 34060 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:27,128 log 16212 34060 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-14 03:39:27,129 log 16212 35220 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-14 03:39:27,130 log 16212 18812 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-14 03:39:27,130 basehttp 16212 34060 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:27,131 basehttp 16212 35220 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:27,131 basehttp 16212 18812 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+INFO 2024-05-14 03:39:36,967 basehttp 16212 18812 "GET /recipes/login/ HTTP/1.1" 200 2095
+INFO 2024-05-14 03:39:38,884 views 16212 18812 Index page accessed
+INFO 2024-05-14 03:39:38,893 basehttp 16212 18812 "GET / HTTP/1.1" 200 5676
+WARNING 2024-05-14 03:39:38,907 log 16212 18812 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-14 03:39:38,907 log 16212 35220 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-14 03:39:38,908 basehttp 16212 18812 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:38,908 basehttp 16212 35220 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:38,911 log 16212 18812 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-14 03:39:38,912 log 16212 34060 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-14 03:39:38,913 log 16212 35220 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-14 03:39:38,914 basehttp 16212 18812 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:38,914 basehttp 16212 35220 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-14 03:39:38,915 basehttp 16212 34060 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+INFO 2024-05-14 03:40:58,263 autoreload 16212 33168 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cookbook\settings.py changed, reloading.
+INFO 2024-05-14 03:41:09,250 autoreload 41340 25856 Watching for file changes with StatReloader
+INFO 2024-05-14 03:41:11,680 views 41340 37028 Index page accessed
+INFO 2024-05-14 03:41:11,705 basehttp 41340 37028 "GET / HTTP/1.1" 200 5676
+INFO 2024-05-14 03:41:11,990 basehttp 41340 37028 "GET /media/media/products/borsh.jpg HTTP/1.1" 200 161400
+INFO 2024-05-14 03:41:11,994 basehttp 41340 43512 "GET /media/media/products/glaz.jpg HTTP/1.1" 200 225320
+INFO 2024-05-14 03:41:11,995 basehttp 41340 26216 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 200 125852
+INFO 2024-05-14 03:41:11,999 basehttp 41340 11348 "GET /media/media/products/zesar.jpeg HTTP/1.1" 200 154975
+INFO 2024-05-14 03:41:12,007 basehttp 41340 17076 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 200 1510473
+INFO 2024-05-14 04:01:19,828 autoreload 41340 25856 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cookbook\settings.py changed, reloading.
+INFO 2024-05-14 04:01:20,330 autoreload 43812 10804 Watching for file changes with StatReloader
+INFO 2024-05-14 14:27:07,104 autoreload 29348 40924 Watching for file changes with StatReloader
+INFO 2024-05-14 14:27:09,475 views 29348 23860 Index page accessed
+INFO 2024-05-14 14:27:09,521 basehttp 29348 23860 "GET / HTTP/1.1" 200 5676
+INFO 2024-05-14 14:27:09,577 basehttp 29348 23860 "GET /media/media/products/borsh.jpg HTTP/1.1" 304 0
+INFO 2024-05-14 14:27:09,577 basehttp 29348 13996 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 304 0
+INFO 2024-05-14 14:27:09,578 basehttp 29348 37292 "GET /media/media/products/glaz.jpg HTTP/1.1" 304 0
+INFO 2024-05-14 14:27:09,578 basehttp 29348 29128 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 304 0
+INFO 2024-05-14 14:27:09,579 basehttp 29348 39312 "GET /media/media/products/zesar.jpeg HTTP/1.1" 304 0
+INFO 2024-05-14 14:27:11,377 views 29348 39312 Index page accessed
+INFO 2024-05-14 14:27:11,386 basehttp 29348 39312 "GET / HTTP/1.1" 200 5676
+INFO 2024-05-14 14:27:13,945 basehttp 29348 39312 "GET /recipes/all_recipes/ HTTP/1.1" 200 6269
+INFO 2024-05-14 14:27:14,065 basehttp 29348 39312 "GET /media/media/products/pig_shashlik.jpeg HTTP/1.1" 200 1829735
+INFO 2024-05-14 14:27:16,088 basehttp 29348 39312 "GET /recipes/add_recipe/ HTTP/1.1" 200 4015
+INFO 2024-05-14 14:27:19,213 basehttp 29348 39312 "GET /recipes/get_category/ HTTP/1.1" 200 2015
+INFO 2024-05-14 14:27:21,770 basehttp 29348 39312 "GET /recipes/add_category/ HTTP/1.1" 200 1987
+INFO 2024-05-14 14:27:27,007 basehttp 29348 39312 "POST /recipes/add_category/ HTTP/1.1" 200 1397
+INFO 2024-05-14 14:27:28,788 basehttp 29348 39312 "GET /recipes/get_category/ HTTP/1.1" 200 2090
+INFO 2024-05-14 14:27:30,383 basehttp 29348 39312 "GET /recipes/add_recipe/ HTTP/1.1" 200 4060
+INFO 2024-05-14 14:28:27,094 basehttp 29348 39312 "POST /recipes/add_recipe/ HTTP/1.1" 200 1389
+INFO 2024-05-14 14:28:30,042 basehttp 29348 39312 "GET /recipes/all_recipes/ HTTP/1.1" 200 6836
+INFO 2024-05-14 14:28:32,356 views 29348 39312 Index page accessed
+INFO 2024-05-14 14:28:32,365 basehttp 29348 39312 "GET / HTTP/1.1" 200 5676
+INFO 2024-05-14 14:28:33,897 basehttp 29348 39312 "GET /recipes/all_recipes/ HTTP/1.1" 200 6836
+ERROR 2024-05-14 14:28:39,586 log 29348 39312 Internal Server Error: /recipes/get_recipe/Яблочный сок/
+Traceback (most recent call last):
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 875, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cbookapp\views.py", line 106, in get_recipe_by_name
+    return render(request, 'cbookapp/recipe.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 710, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 842, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\fields\files.py", line 66, in url
+    self._require_file()
+  File "C:\Users\Егор\PycharmProjects\Project_cookbook\.venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'img_file' attribute has no file associated with it.
+ERROR 2024-05-14 14:28:39,597 basehttp 29348 39312 "GET /recipes/get_recipe/%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BE%D0%BA/ HTTP/1.1" 500 203117
+INFO 2024-05-14 18:22:26,187 autoreload 31260 40196 Watching for file changes with StatReloader
+INFO 2024-05-14 18:22:27,837 views 31260 3428 Index page accessed
+INFO 2024-05-14 18:22:27,873 basehttp 31260 3428 "GET / HTTP/1.1" 200 5676
+INFO 2024-05-14 18:22:27,920 basehttp 31260 3428 "GET /media/media/products/borsh.jpg HTTP/1.1" 304 0
+INFO 2024-05-14 18:22:27,922 basehttp 31260 32728 "GET /media/media/products/glaz.jpg HTTP/1.1" 304 0
+INFO 2024-05-14 18:22:27,922 basehttp 31260 30644 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 304 0
+INFO 2024-05-14 18:22:27,924 basehttp 31260 27144 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 304 0
+INFO 2024-05-14 18:22:27,925 basehttp 31260 26584 "GET /media/media/products/zesar.jpeg HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:11,811 basehttp 31260 26584 "GET /admin/ HTTP/1.1" 200 7789
+INFO 2024-05-14 18:23:11,833 basehttp 31260 26584 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:11,847 basehttp 31260 3428 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:11,847 basehttp 31260 30644 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:11,848 basehttp 31260 32728 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:11,848 basehttp 31260 4984 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:11,849 basehttp 31260 26584 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:11,849 basehttp 31260 27144 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:11,866 basehttp 31260 27144 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:11,866 basehttp 31260 4984 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:11,866 basehttp 31260 26584 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:15,611 basehttp 31260 4984 "GET /admin/cbookapp/recipe/ HTTP/1.1" 200 12399
+INFO 2024-05-14 18:23:15,642 basehttp 31260 4984 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:15,643 basehttp 31260 30644 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:15,644 basehttp 31260 3428 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:15,645 basehttp 31260 27144 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:15,645 basehttp 31260 32728 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:15,648 basehttp 31260 30644 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:15,650 basehttp 31260 4984 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:15,650 basehttp 31260 3428 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:15,651 basehttp 31260 32728 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:15,674 basehttp 31260 26584 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:23:15,782 basehttp 31260 26584 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:15,815 basehttp 31260 26584 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:20,154 basehttp 31260 26584 "GET /admin/cbookapp/recipe/8/change/ HTTP/1.1" 200 17318
+INFO 2024-05-14 18:23:20,169 basehttp 31260 26584 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:20,173 basehttp 31260 3428 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:20,176 basehttp 31260 32728 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:23:20,182 basehttp 31260 32728 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:20,184 basehttp 31260 3428 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:20,187 basehttp 31260 3428 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:22,623 basehttp 31260 3428 "GET /admin/cbookapp/recipe/8/delete/ HTTP/1.1" 200 8465
+INFO 2024-05-14 18:23:22,640 basehttp 31260 3428 "GET /static/admin/js/cancel.js HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:24,435 basehttp 31260 3428 "POST /admin/cbookapp/recipe/8/delete/ HTTP/1.1" 302 0
+INFO 2024-05-14 18:23:24,452 basehttp 31260 3428 "GET /admin/cbookapp/recipe/ HTTP/1.1" 200 12192
+INFO 2024-05-14 18:23:24,479 basehttp 31260 3428 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:23:24,498 basehttp 31260 3428 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2024-05-14 18:23:37,521 basehttp 31260 3428 "GET /admin/cbookapp/recipe/7/change/ HTTP/1.1" 200 19107
+INFO 2024-05-14 18:23:37,545 basehttp 31260 3428 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:40:14,269 autoreload 31260 40196 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-14 18:40:15,152 autoreload 16052 39588 Watching for file changes with StatReloader
+INFO 2024-05-14 18:40:57,639 autoreload 16052 39588 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-14 18:40:58,258 autoreload 36104 28128 Watching for file changes with StatReloader
+INFO 2024-05-14 18:41:28,460 autoreload 36104 28128 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-14 18:41:29,068 autoreload 20288 32924 Watching for file changes with StatReloader
+INFO 2024-05-14 18:41:29,493 basehttp 20288 44464 "GET /admin/cbookapp/recipe/7/change/ HTTP/1.1" 200 19107
+INFO 2024-05-14 18:41:36,065 views 20288 44464 Index page accessed
+INFO 2024-05-14 18:41:36,077 basehttp 20288 44464 "GET / HTTP/1.1" 200 5676
+INFO 2024-05-14 18:41:39,442 basehttp 20288 44464 "GET /recipes/add_recipe/ HTTP/1.1" 200 4060
+INFO 2024-05-14 18:42:00,831 basehttp 20288 44464 "POST /recipes/add_recipe/ HTTP/1.1" 200 1389
+INFO 2024-05-14 18:42:16,227 basehttp 20288 44464 "GET /recipes/all_recipes/ HTTP/1.1" 200 6874
+INFO 2024-05-14 18:42:16,243 basehttp 20288 44464 "GET /media/media/products/pig_shashlik.jpeg HTTP/1.1" 304 0
+WARNING 2024-05-14 18:42:16,359 log 20288 26780 Not Found: /media/media/media/products/borsh.jpg
+WARNING 2024-05-14 18:42:16,360 basehttp 20288 26780 "GET /media/media/media/products/borsh.jpg HTTP/1.1" 404 2778
+INFO 2024-05-14 18:42:43,912 basehttp 20288 26780 "GET /admin/ HTTP/1.1" 200 8141
+INFO 2024-05-14 18:42:45,607 basehttp 20288 26780 "GET /admin/ HTTP/1.1" 200 8141
+INFO 2024-05-14 18:42:48,293 basehttp 20288 26780 "GET /admin/cbookapp/recipe/ HTTP/1.1" 200 12365
+INFO 2024-05-14 18:42:48,321 basehttp 20288 26780 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:42:50,049 basehttp 20288 26780 "GET /admin/cbookapp/recipe/9/change/ HTTP/1.1" 200 17479
+INFO 2024-05-14 18:42:50,074 basehttp 20288 26780 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:42:56,322 basehttp 20288 26780 "GET /admin/cbookapp/recipe/ HTTP/1.1" 200 12365
+INFO 2024-05-14 18:42:56,343 basehttp 20288 26780 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:42:58,038 basehttp 20288 26780 "GET /admin/cbookapp/recipe/7/change/ HTTP/1.1" 200 19107
+INFO 2024-05-14 18:42:58,066 basehttp 20288 26780 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:43:10,947 autoreload 20288 32924 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-14 18:43:11,559 autoreload 10868 23672 Watching for file changes with StatReloader
+INFO 2024-05-14 18:43:14,649 basehttp 10868 9532 "GET /admin/cbookapp/recipe/ HTTP/1.1" 200 12365
+INFO 2024-05-14 18:43:14,669 basehttp 10868 9532 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:43:17,844 basehttp 10868 9532 "GET /admin/cbookapp/recipe/9/change/ HTTP/1.1" 200 17479
+INFO 2024-05-14 18:43:17,868 basehttp 10868 9532 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:43:19,593 basehttp 10868 9532 "GET /admin/cbookapp/recipe/9/delete/ HTTP/1.1" 200 8414
+INFO 2024-05-14 18:43:27,037 basehttp 10868 9532 "GET /admin/cbookapp/recipe/9/change/ HTTP/1.1" 200 17479
+WARNING 2024-05-14 18:43:28,764 log 10868 9532 Not Found: /media/media/media/products/borsh.jpg
+WARNING 2024-05-14 18:43:28,765 basehttp 10868 9532 "GET /media/media/media/products/borsh.jpg HTTP/1.1" 404 2778
+INFO 2024-05-14 18:43:30,246 basehttp 10868 9532 "GET /admin/cbookapp/recipe/9/change/ HTTP/1.1" 200 17479
+INFO 2024-05-14 18:43:37,275 basehttp 10868 9532 "GET /admin/cbookapp/recipe/9/delete/ HTTP/1.1" 200 8414
+INFO 2024-05-14 18:43:38,880 basehttp 10868 9532 "POST /admin/cbookapp/recipe/9/delete/ HTTP/1.1" 302 0
+INFO 2024-05-14 18:43:38,898 basehttp 10868 9532 "GET /admin/cbookapp/recipe/ HTTP/1.1" 200 12175
+INFO 2024-05-14 18:43:38,924 basehttp 10868 9532 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:43:41,242 views 10868 9532 Index page accessed
+INFO 2024-05-14 18:43:41,254 basehttp 10868 9532 "GET / HTTP/1.1" 200 5676
+INFO 2024-05-14 18:43:42,556 basehttp 10868 9532 "GET /recipes/add_recipe/ HTTP/1.1" 200 4060
+INFO 2024-05-14 18:44:05,650 basehttp 10868 9532 "POST /recipes/add_recipe/ HTTP/1.1" 200 1389
+INFO 2024-05-14 18:44:08,374 basehttp 10868 9532 "GET /recipes/all_recipes/ HTTP/1.1" 200 6874
+WARNING 2024-05-14 18:44:08,403 log 10868 9532 Not Found: /media/media/media/products/borsh.jpg
+WARNING 2024-05-14 18:44:08,404 basehttp 10868 9532 "GET /media/media/media/products/borsh.jpg HTTP/1.1" 404 2778
+INFO 2024-05-14 18:44:14,730 basehttp 10868 9532 "GET /recipes/all_recipes/ HTTP/1.1" 200 6874
+WARNING 2024-05-14 18:44:14,755 log 10868 9532 Not Found: /media/media/media/products/borsh.jpg
+WARNING 2024-05-14 18:44:14,755 basehttp 10868 9532 "GET /media/media/media/products/borsh.jpg HTTP/1.1" 404 2778
+INFO 2024-05-14 18:44:21,353 basehttp 10868 9532 "GET /admin/ HTTP/1.1" 200 8476
+INFO 2024-05-14 18:44:21,865 basehttp 10868 9532 "GET /admin/ HTTP/1.1" 200 8476
+INFO 2024-05-14 18:44:23,590 basehttp 10868 9532 "GET /admin/cbookapp/recipe/ HTTP/1.1" 200 12367
+INFO 2024-05-14 18:44:23,624 basehttp 10868 9532 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:44:26,636 basehttp 10868 9532 "GET /admin/cbookapp/recipe/10/change/ HTTP/1.1" 200 17480
+INFO 2024-05-14 18:44:26,659 basehttp 10868 9532 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:44:37,229 basehttp 10868 9532 "GET /admin/cbookapp/recipe/ HTTP/1.1" 200 12367
+INFO 2024-05-14 18:44:37,258 basehttp 10868 9532 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:44:38,793 basehttp 10868 9532 "GET /admin/cbookapp/recipe/7/change/ HTTP/1.1" 200 19107
+INFO 2024-05-14 18:44:38,815 basehttp 10868 9532 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:44:53,564 basehttp 10868 9532 "GET /admin/cbookapp/categories/ HTTP/1.1" 200 11578
+INFO 2024-05-14 18:44:53,588 basehttp 10868 9532 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:44:55,857 basehttp 10868 9532 "GET /admin/cbookapp/recipe/ HTTP/1.1" 200 12367
+INFO 2024-05-14 18:44:55,877 basehttp 10868 9532 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:44:57,248 basehttp 10868 9532 "GET /admin/cbookapp/recipe/10/change/ HTTP/1.1" 200 17480
+INFO 2024-05-14 18:44:57,271 basehttp 10868 9532 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:44:58,731 basehttp 10868 9532 "GET /admin/cbookapp/recipe/10/delete/ HTTP/1.1" 200 8416
+INFO 2024-05-14 18:44:59,768 basehttp 10868 9532 "POST /admin/cbookapp/recipe/10/delete/ HTTP/1.1" 302 0
+INFO 2024-05-14 18:44:59,782 basehttp 10868 9532 "GET /admin/cbookapp/recipe/ HTTP/1.1" 200 12175
+INFO 2024-05-14 18:44:59,809 basehttp 10868 9532 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-14 18:45:24,294 views 10868 9532 Index page accessed
+INFO 2024-05-14 18:45:24,310 basehttp 10868 9532 "GET / HTTP/1.1" 200 5676
+INFO 2024-05-14 18:45:24,507 autoreload 10868 23672 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-14 18:45:25,331 autoreload 34088 17796 Watching for file changes with StatReloader
+INFO 2024-05-14 18:45:26,706 basehttp 34088 18520 "GET /recipes/add_recipe/ HTTP/1.1" 200 4060
+INFO 2024-05-14 18:45:41,639 basehttp 34088 18520 "POST /recipes/add_recipe/ HTTP/1.1" 200 1389
+INFO 2024-05-14 18:45:44,384 basehttp 34088 18520 "GET /recipes/all_recipes/ HTTP/1.1" 200 6866
+INFO 2024-05-14 18:49:37,954 autoreload 34088 17796 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-14 18:49:38,536 autoreload 44016 20616 Watching for file changes with StatReloader
+INFO 2024-05-14 18:57:55,850 autoreload 44016 20616 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-14 18:57:56,419 autoreload 41468 34352 Watching for file changes with StatReloader
+INFO 2024-05-14 18:58:04,441 views 41468 20828 Index page accessed
+INFO 2024-05-14 18:58:04,468 basehttp 41468 20828 "GET / HTTP/1.1" 200 5676
+INFO 2024-05-14 18:58:06,610 basehttp 41468 20828 "GET /recipes/add_recipe/ HTTP/1.1" 200 4060
+INFO 2024-05-14 18:58:12,812 basehttp 41468 20828 "GET /recipes/add_recipe/ HTTP/1.1" 200 4060
+INFO 2024-05-14 18:59:02,655 autoreload 41468 34352 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cbookapp\forms.py changed, reloading.
+INFO 2024-05-14 18:59:03,351 autoreload 24044 26360 Watching for file changes with StatReloader
+INFO 2024-05-14 18:59:04,755 views 24044 33744 Index page accessed
+INFO 2024-05-14 18:59:04,783 basehttp 24044 33744 "GET / HTTP/1.1" 200 5676
+INFO 2024-05-14 18:59:07,408 basehttp 24044 33744 "GET /recipes/add_recipe/ HTTP/1.1" 200 4060
+INFO 2024-05-14 19:01:24,394 autoreload 24044 26360 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cookbook\urls.py changed, reloading.
+INFO 2024-05-14 19:01:25,170 autoreload 33116 35340 Watching for file changes with StatReloader

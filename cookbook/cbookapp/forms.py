@@ -48,6 +48,9 @@ class RecipeForm(forms.ModelForm):
                   'ingredients': 'Ингредиенты', 'category': 'Категория'}
         # field_classes = {
         #     'category': forms.ModelChoiceField(queryset=Categories.objects.all(), empty_label='Категория не выбрана')}
+        widgets = {
+            'description': forms.Textarea(attrs={'cols': 60, 'rows': 10}),
+        }
 
     def __init__(self, *args, **kwargs):
         super(RecipeForm, self).__init__(*args, **kwargs)
@@ -58,6 +61,12 @@ class RecipeForm(forms.ModelForm):
         self.fields['img_file'].widget = forms.FileInput(attrs={'placeholder': 'Bзображение'})
         # self.fields['author'].widget = forms.TextInput(attrs={'placeholder': 'Имя автора'})
         self.fields['ingredients'].widget = forms.TextInput(attrs={'placeholder': 'Мясо, Лук, Соль, ...'})
+
+    def clean_img_file(self):
+        img_file = self.cleaned_data['img_file']
+        if img_file is None:
+            img_file = 'media/products/no-image.jpg'
+        return img_file
 
 
 '''Регистрация и авторизация пользователей'''
