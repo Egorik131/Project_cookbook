@@ -10305,3 +10305,190 @@ INFO 2024-05-14 19:17:48,585 basehttp 4380 43720 "GET /recipes/upd_recipe/%D1%81
 INFO 2024-05-14 19:17:55,039 basehttp 4380 43720 "POST /recipes/upd_recipe/%D1%81%D0%BE%D0%BA/ HTTP/1.1" 302 0
 INFO 2024-05-14 19:17:55,052 basehttp 4380 43720 "GET /recipes/get_recipe/%D1%81%D0%BE%D0%BA/ HTTP/1.1" 200 2116
 INFO 2024-05-14 19:17:55,085 basehttp 4380 43720 "GET /media/media/products/apple_juce.jpg HTTP/1.1" 200 700711
+INFO 2024-05-15 12:26:19,426 autoreload 2944 30968 Watching for file changes with StatReloader
+INFO 2024-05-15 12:26:22,798 views 2944 33212 Index page accessed
+INFO 2024-05-15 12:26:22,862 basehttp 2944 33212 "GET / HTTP/1.1" 200 5676
+WARNING 2024-05-15 12:26:22,935 log 2944 38712 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:26:22,937 log 2944 30876 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:26:22,939 log 2944 34360 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:26:22,939 log 2944 14512 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:26:22,942 log 2944 33212 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:26:22,943 basehttp 2944 38712 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:26:22,943 basehttp 2944 30876 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:26:22,944 basehttp 2944 14512 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:26:22,945 basehttp 2944 34360 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:26:22,948 basehttp 2944 33212 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+INFO 2024-05-15 12:30:36,227 views 2944 33212 Index page accessed
+INFO 2024-05-15 12:30:36,237 basehttp 2944 33212 "GET / HTTP/1.1" 200 5676
+WARNING 2024-05-15 12:30:36,260 log 2944 33212 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:30:36,261 log 2944 34360 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:30:36,262 log 2944 30876 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:30:36,263 log 2944 38712 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:30:36,264 log 2944 14512 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:30:36,265 basehttp 2944 33212 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:30:36,265 basehttp 2944 34360 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:30:36,265 basehttp 2944 30876 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:30:36,266 basehttp 2944 38712 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:30:36,267 basehttp 2944 14512 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+INFO 2024-05-15 12:30:37,165 views 2944 14512 Index page accessed
+INFO 2024-05-15 12:30:37,178 basehttp 2944 14512 "GET / HTTP/1.1" 200 5676
+WARNING 2024-05-15 12:30:37,201 log 2944 14512 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:30:37,203 log 2944 38712 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:30:37,203 basehttp 2944 14512 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:30:37,204 basehttp 2944 38712 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:30:37,211 log 2944 38712 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:30:37,212 log 2944 14512 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:30:37,213 log 2944 30876 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:30:37,214 basehttp 2944 38712 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:30:37,214 basehttp 2944 14512 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:30:37,215 basehttp 2944 30876 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+INFO 2024-05-15 12:34:37,769 views 2944 21356 Index page accessed
+INFO 2024-05-15 12:34:37,784 basehttp 2944 21356 "GET / HTTP/1.1" 200 5676
+WARNING 2024-05-15 12:34:37,802 log 2944 21356 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:34:37,803 log 2944 40476 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:34:37,803 basehttp 2944 21356 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:34:37,804 basehttp 2944 40476 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:34:37,809 log 2944 40476 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:34:37,810 log 2944 21356 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:34:37,812 log 2944 17180 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:34:37,813 basehttp 2944 40476 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:34:37,813 basehttp 2944 21356 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:34:37,813 basehttp 2944 17180 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+INFO 2024-05-15 12:34:48,947 basehttp 2944 30896 "GET /recipes/all_recipes/ HTTP/1.1" 200 6871
+WARNING 2024-05-15 12:34:48,967 log 2944 30896 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:34:48,968 basehttp 2944 30896 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:34:48,975 log 2944 30896 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:34:48,976 log 2944 27796 Not Found: /media/media/products/apple_juce.jpg
+WARNING 2024-05-15 12:34:48,978 log 2944 38252 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:34:48,979 basehttp 2944 30896 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:34:48,979 basehttp 2944 27796 "GET /media/media/products/apple_juce.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:34:48,981 log 2944 33468 Not Found: /media/media/products/pig_shashlik.jpeg
+WARNING 2024-05-15 12:34:48,982 basehttp 2944 38252 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:34:48,984 log 2944 20452 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:34:48,986 log 2944 26664 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:34:48,987 basehttp 2944 33468 "GET /media/media/products/pig_shashlik.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:34:48,987 basehttp 2944 20452 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:34:48,988 basehttp 2944 26664 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+INFO 2024-05-15 12:37:36,119 views 2944 42524 Index page accessed
+INFO 2024-05-15 12:37:36,129 basehttp 2944 42524 "GET / HTTP/1.1" 200 5676
+WARNING 2024-05-15 12:37:36,157 log 2944 42524 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:37:36,157 basehttp 2944 42524 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:37:36,161 log 2944 42524 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:37:36,162 log 2944 11128 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:37:36,164 log 2944 36928 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:37:36,166 log 2944 25916 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:37:36,167 basehttp 2944 42524 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:37:36,167 basehttp 2944 11128 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:37:36,167 basehttp 2944 36928 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:37:36,168 basehttp 2944 25916 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+INFO 2024-05-15 12:37:39,040 basehttp 2944 25916 "GET /recipes/get_recipe/%D0%91%D0%BE%D1%80%D1%89/ HTTP/1.1" 200 3731
+WARNING 2024-05-15 12:37:39,074 log 2944 25916 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:37:39,074 basehttp 2944 25916 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+INFO 2024-05-15 12:37:40,889 basehttp 2944 25916 "GET /recipes/upd_recipe/%D0%91%D0%BE%D1%80%D1%89/ HTTP/1.1" 200 5808
+INFO 2024-05-15 12:39:20,364 autoreload 19016 37748 Watching for file changes with StatReloader
+INFO 2024-05-15 12:39:23,720 views 19016 30016 Index page accessed
+INFO 2024-05-15 12:39:23,743 basehttp 19016 30016 "GET / HTTP/1.1" 200 5676
+WARNING 2024-05-15 12:39:23,768 log 19016 30016 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:39:23,769 basehttp 19016 30016 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:23,770 log 19016 22104 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:39:23,772 log 19016 27416 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:39:23,775 log 19016 30532 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:39:23,776 basehttp 19016 22104 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:23,777 log 19016 20112 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:39:23,778 basehttp 19016 27416 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:23,779 basehttp 19016 20112 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:23,779 basehttp 19016 30532 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+INFO 2024-05-15 12:39:25,108 views 19016 20112 Index page accessed
+INFO 2024-05-15 12:39:25,116 basehttp 19016 20112 "GET / HTTP/1.1" 200 5676
+WARNING 2024-05-15 12:39:25,130 log 19016 20112 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:39:25,131 log 19016 30532 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:39:25,131 log 19016 27416 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:39:25,132 log 19016 22104 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:39:25,133 log 19016 30016 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:39:25,134 basehttp 19016 20112 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:25,134 basehttp 19016 30532 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:25,134 basehttp 19016 27416 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:25,135 basehttp 19016 22104 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:25,136 basehttp 19016 30016 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+INFO 2024-05-15 12:39:26,016 views 19016 30016 Index page accessed
+INFO 2024-05-15 12:39:26,026 basehttp 19016 30016 "GET / HTTP/1.1" 200 5676
+WARNING 2024-05-15 12:39:26,038 log 19016 30016 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:39:26,040 log 19016 22104 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:39:26,040 basehttp 19016 30016 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:26,041 basehttp 19016 22104 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:26,045 log 19016 22104 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:39:26,046 log 19016 30016 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:39:26,047 log 19016 27416 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:39:26,048 basehttp 19016 22104 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:26,048 basehttp 19016 30016 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:26,049 basehttp 19016 27416 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+INFO 2024-05-15 12:39:27,357 basehttp 19016 39344 "GET /recipes/all_recipes/ HTTP/1.1" 200 6871
+WARNING 2024-05-15 12:39:27,394 log 19016 39344 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:39:27,395 basehttp 19016 39344 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:27,400 log 19016 39344 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:39:27,403 log 19016 17428 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:39:27,404 basehttp 19016 39344 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:27,405 basehttp 19016 17428 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:27,414 log 19016 16992 Not Found: /media/media/products/pig_shashlik.jpeg
+WARNING 2024-05-15 12:39:27,418 log 19016 6312 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:39:27,420 log 19016 9268 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:39:27,421 basehttp 19016 16992 "GET /media/media/products/pig_shashlik.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:27,424 log 19016 36588 Not Found: /media/media/products/apple_juce.jpg
+WARNING 2024-05-15 12:39:27,424 basehttp 19016 6312 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:27,424 basehttp 19016 9268 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:27,425 basehttp 19016 36588 "GET /media/media/products/apple_juce.jpg HTTP/1.1" 404 179
+INFO 2024-05-15 12:39:28,606 basehttp 19016 36588 "GET /recipes/all_recipes/ HTTP/1.1" 200 6871
+WARNING 2024-05-15 12:39:28,625 log 19016 36588 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:39:28,626 log 19016 9268 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:39:28,626 basehttp 19016 36588 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:28,627 basehttp 19016 9268 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:28,632 log 19016 9268 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:39:28,633 log 19016 36588 Not Found: /media/media/products/pig_shashlik.jpeg
+WARNING 2024-05-15 12:39:28,635 log 19016 16992 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:39:28,636 log 19016 17428 Not Found: /media/media/products/apple_juce.jpg
+WARNING 2024-05-15 12:39:28,637 log 19016 6312 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:39:28,637 basehttp 19016 9268 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:28,638 basehttp 19016 36588 "GET /media/media/products/pig_shashlik.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:28,639 basehttp 19016 16992 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:28,640 basehttp 19016 6312 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:28,640 basehttp 19016 17428 "GET /media/media/products/apple_juce.jpg HTTP/1.1" 404 179
+INFO 2024-05-15 12:39:41,128 basehttp 19016 25832 "GET /recipes/all_recipes/ HTTP/1.1" 200 6871
+WARNING 2024-05-15 12:39:41,152 log 19016 25832 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:39:41,152 basehttp 19016 25832 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:41,155 log 19016 25832 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:39:41,156 basehttp 19016 25832 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:41,163 log 19016 25832 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:39:41,165 basehttp 19016 25832 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:41,169 log 19016 28064 Not Found: /media/media/products/pig_shashlik.jpeg
+WARNING 2024-05-15 12:39:41,172 log 19016 39872 Not Found: /media/media/products/apple_juce.jpg
+WARNING 2024-05-15 12:39:41,175 log 19016 11952 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:39:41,175 basehttp 19016 28064 "GET /media/media/products/pig_shashlik.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:41,178 log 19016 3772 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:39:41,178 basehttp 19016 39872 "GET /media/media/products/apple_juce.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:41,178 basehttp 19016 11952 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:41,179 basehttp 19016 3772 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+INFO 2024-05-15 12:39:41,608 autoreload 19016 37748 C:\Users\Егор\PycharmProjects\Project_cookbook\cookbook\cookbook\settings.py changed, reloading.
+INFO 2024-05-15 12:39:42,436 autoreload 14648 26716 Watching for file changes with StatReloader
+INFO 2024-05-15 12:39:43,411 basehttp 14648 17256 "GET /recipes/all_recipes/ HTTP/1.1" 200 6871
+WARNING 2024-05-15 12:39:43,427 log 14648 17256 Not Found: /media/media/products/glaz.jpg
+WARNING 2024-05-15 12:39:43,427 log 14648 36944 Not Found: /media/media/products/kasha_man.jpg
+WARNING 2024-05-15 12:39:43,428 basehttp 14648 17256 "GET /media/media/products/glaz.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:43,428 basehttp 14648 36944 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:43,433 log 14648 36944 Not Found: /media/media/products/kur_shashlik_9V1n56N.jpg
+WARNING 2024-05-15 12:39:43,434 log 14648 17256 Not Found: /media/media/products/pig_shashlik.jpeg
+WARNING 2024-05-15 12:39:43,435 log 14648 18280 Not Found: /media/media/products/zesar.jpeg
+WARNING 2024-05-15 12:39:43,437 log 14648 2836 Not Found: /media/media/products/borsh.jpg
+WARNING 2024-05-15 12:39:43,437 basehttp 14648 17256 "GET /media/media/products/pig_shashlik.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:43,438 basehttp 14648 36944 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:43,439 log 14648 21148 Not Found: /media/media/products/apple_juce.jpg
+WARNING 2024-05-15 12:39:43,439 basehttp 14648 18280 "GET /media/media/products/zesar.jpeg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:43,440 basehttp 14648 2836 "GET /media/media/products/borsh.jpg HTTP/1.1" 404 179
+WARNING 2024-05-15 12:39:43,441 basehttp 14648 21148 "GET /media/media/products/apple_juce.jpg HTTP/1.1" 404 179
+INFO 2024-05-15 12:49:20,251 autoreload 26556 32160 Watching for file changes with StatReloader
+INFO 2024-05-15 12:49:22,759 views 26556 4576 Index page accessed
+INFO 2024-05-15 12:49:22,797 basehttp 26556 4576 "GET / HTTP/1.1" 200 5676
+INFO 2024-05-15 12:49:23,355 basehttp 26556 4728 "GET /media/media/products/kasha_man.jpg HTTP/1.1" 200 125852
+INFO 2024-05-15 12:49:23,368 basehttp 26556 37932 "GET /media/media/products/glaz.jpg HTTP/1.1" 200 225320
+INFO 2024-05-15 12:49:23,371 basehttp 26556 34528 "GET /media/media/products/kur_shashlik_9V1n56N.jpg HTTP/1.1" 200 1510473
+INFO 2024-05-15 12:49:23,376 basehttp 26556 4576 "GET /media/media/products/borsh.jpg HTTP/1.1" 200 161400
+INFO 2024-05-15 12:49:23,378 basehttp 26556 33544 "GET /media/media/products/zesar.jpeg HTTP/1.1" 200 154975
